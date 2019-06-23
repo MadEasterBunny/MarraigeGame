@@ -5,8 +5,7 @@ using UnityEngine.UI;
 
 public class Sign : MonoBehaviour 
 {
-    public Message contextOn;
-    public Message contextOff;
+    public Message context;
 
     public GameObject dialogueBox;
     public Text dialogueText;
@@ -36,18 +35,18 @@ public class Sign : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Player"))
+        if(collision.CompareTag("Player") && !collision.isTrigger)
         {
-            contextOn.Raise();
+            context.Raise();
             dialogueActive = true;
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if(collision.CompareTag("Player"))
+        if(collision.CompareTag("Player") && !collision.isTrigger)
         {
-            contextOff.Raise();
+            context.Raise();
             dialogueActive = false;
             dialogueBox.SetActive(false);
         }
