@@ -6,25 +6,31 @@ public enum PlayerState
 {
     walk,
     attack,
-    interact
+    interact,
+    stagger,
+    idle
 }
 
 public class PlayerMovement : MonoBehaviour {
 
     public PlayerState currentState;
     public float speed;
-    private Rigidbody2D myRigidBody;
+    private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
+    public FloatValue currentHealth;
+    public Message playerHealthSignal;
+    public VectorValue startingPosition;
 
 	// Use this for initialization
 	void Start ()
     {
         currentState = PlayerState.walk;
         animator = GetComponent<Animator>();
-        myRigidBody = GetComponent<Rigidbody2D>();
+        myRigidbody = GetComponent<Rigidbody2D>();
         animator.SetFloat("moveX", 0);
         animator.SetFloat("moveY", -1);
+        transform.position = startingPosition.initialValue;
 	}
 	
 	// Update is called once per frame
@@ -33,11 +39,11 @@ public class PlayerMovement : MonoBehaviour {
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
-        if(Input.GetButtonDown("attack") && currentState != PlayerState.attack)
+        if(Input.GetButtonDown("attack") && currentState != PlayerState.attack && currentState != PlayerState.stagger)
         {
             StartCoroutine(attackCo());
         }
-        else if(currentState == PlayerState.walk)
+        else if(currentState == PlayerState.walk || currentState == PlayerState.idle)
         {
             UpdateAnimationAndMove();
         }      
@@ -68,6 +74,32 @@ public class PlayerMovement : MonoBehaviour {
     void MoveCharacter()
     {
         change.Normalize();
-        myRigidBody.MovePosition(transform.position + change * speed * Time.deltaTime);
+        myRigidbody.MovePosition(transform.position + change * speed * Time.deltaTime);
     }
+
+    public void Knock(float knockTime, float damage)
+    {
+        currentHealth.RunTimeValue -= damage;
+        playerHealthSignal.Raise();
+        if (currentHealth.RunTimeValue > 0)
+        {
+            StartCoroutine(KnockCo(knockTime));
+        }
+        else
+        {
+            this.gameObject.SetActive(false);
+        }
+    }
+
+    private IEnumerator KnockCo(float knockTime)
+    {
+        if (myRigidbody != null)
+        {
+            yield return new WaitForSeconds(knockTime);
+            myRigidbody.velocity = Vector2.zero;
+            currentState = PlayerState.idle;
+            myRigidbody.velocity = Vector2.zero;
+        }
+    }
+
 }
