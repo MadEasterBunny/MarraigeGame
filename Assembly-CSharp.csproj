@@ -62,22 +62,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Breakables.cs" />
-    <Compile Include="Assets\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\Scripts\Enemy.cs" />
-    <Compile Include="Assets\Scripts\KnockBack.cs" />
-    <Compile Include="Assets\Scripts\Log.cs" />
+    <Compile Include="Assets\Scripts\Camera\CameraMovement.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Enemy\Log.cs" />
+    <Compile Include="Assets\Scripts\Enemy\PatrolLog.cs" />
+    <Compile Include="Assets\Scripts\Objects\Breakables.cs" />
+    <Compile Include="Assets\Scripts\Objects\Door.cs" />
+    <Compile Include="Assets\Scripts\Objects\Heart.cs" />
+    <Compile Include="Assets\Scripts\Objects\Interactable.cs" />
+    <Compile Include="Assets\Scripts\Objects\PowerUp.cs" />
+    <Compile Include="Assets\Scripts\Objects\RoomMove.cs" />
+    <Compile Include="Assets\Scripts\Objects\SceneTransition.cs" />
+    <Compile Include="Assets\Scripts\Objects\Sign.cs" />
+    <Compile Include="Assets\Scripts\Objects\TreasureChest.cs" />
+    <Compile Include="Assets\Scripts\Other\KnockBack.cs" />
+    <Compile Include="Assets\Scripts\Other\SignalListener.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\ContextClue.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\HeartManager.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerHit.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\RoomMove.cs" />
-    <Compile Include="Assets\Scripts\SceneTransition.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\FloatValue.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\Inventory.cs" />
+    <Compile Include="Assets\Scripts\ScriptableObjects\Item.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\Message.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\VectorValue.cs" />
-    <Compile Include="Assets\Scripts\Sign.cs" />
-    <Compile Include="Assets\Scripts\SignalListener.cs" />
     <Compile Include="Assets\SuperTiled2Unity\Examples\Overhead\Sprites\MegaDad\OverheadMegaDadController.cs" />
     <Compile Include="Assets\SuperTiled2Unity\Scripts\CollisionObject.cs" />
     <Compile Include="Assets\SuperTiled2Unity\Scripts\CollisionShapeType.cs" />
