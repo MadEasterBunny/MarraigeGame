@@ -12,20 +12,25 @@ public enum EnemyState
 
 public class Enemy : MonoBehaviour
 {
+    [Header("State Machine")]
     public EnemyState currentState;
+
+    [Space]
+    [Header("Enemy Stats")]
     public FloatValue maxHealth;
     public float health;
     public string enemyName;
     public int baseAttack;
     public float moveSpeed;
 
+    [Space]
+    [Header("Death Effects")]
     public GameObject deathEffect;
-    public SpriteRenderer sprite;
+    public float deathEffectDelay = 1f;
 
     private void Awake()
     {
         health = maxHealth.initialValue;
-        sprite = GetComponent<SpriteRenderer>(); 
     }
 
     private void TakeDamage(float damage)
@@ -33,7 +38,6 @@ public class Enemy : MonoBehaviour
         health -= damage;
         if(health <= 0)
         {
-            sprite.enabled = false;
             DeathEffect();
             this.gameObject.SetActive(false);
         }
@@ -44,7 +48,7 @@ public class Enemy : MonoBehaviour
         if(deathEffect != null)
         {
             GameObject effect = Instantiate(deathEffect, transform.position, Quaternion.identity);
-            Destroy(effect, 1f);
+            Destroy(effect, deathEffectDelay);
         }
     }
 

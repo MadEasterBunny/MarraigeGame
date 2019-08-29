@@ -4,14 +4,27 @@ using UnityEngine;
 
 public class CameraMovement : MonoBehaviour {
 
+    [Header("Position Variables")]
     public Transform target;
     public float smoothing;
     public Vector2 maxPosition;
     public Vector2 minPosition;
 
+    [Space]
+    [Header("Animator")]
+    public Animator anim;
+
+    [Space]
+    [Header("Position Reset")]
+    public VectorValue camMin;
+    public VectorValue camMax;
+
 	// Use this for initialization
 	void Start ()
     {
+        maxPosition = camMax.initialValue;
+        minPosition = camMin.initialValue;
+        anim = GetComponent<Animator>();
         transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
 	}
 	
@@ -28,4 +41,16 @@ public class CameraMovement : MonoBehaviour {
 
         }
 	}
+
+    public void GameKick()
+    {
+        anim.SetBool("kickActive", true);
+        StartCoroutine(KickCo());
+    }
+
+    public IEnumerator KickCo()
+    {
+        yield return null;
+        anim.SetBool("kickActive", false);
+    }
 }

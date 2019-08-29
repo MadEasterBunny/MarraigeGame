@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Breakable
   - Enemy
+  - Airplane
+  - TextMessage
+  - AudioController
   layers:
   - Default
   - TransparentFX

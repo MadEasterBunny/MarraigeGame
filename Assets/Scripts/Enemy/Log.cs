@@ -4,11 +4,21 @@ using UnityEngine;
 
 public class Log : Enemy
 {
+    [Header("Rigidbody")]
     public Rigidbody2D myRigidbody;
+
+    [Space]
+    [Header("Chase Specs")]
     public Transform target;
     public float chaseRadius;
     public float attackRadius;
+
+    [Space]
+    [Header("Home Position")]
     public Transform homePosition;
+
+    [Space]
+    [Header("Animator")]
     public Animator anim;
 
     // Start is called before the first frame update

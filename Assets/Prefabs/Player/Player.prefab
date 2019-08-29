@@ -438,6 +438,7 @@ MonoBehaviour:
   startingPosition: {fileID: 11400000, guid: 6cbd13096697e1f4eab07f910c2f26c7, type: 2}
   playerInventory: {fileID: 11400000, guid: cff79cf4b792fdc4a9f1d02f9bdc5730, type: 2}
   receivedItemSprite: {fileID: 214315735}
+  playerHit: {fileID: 0}
 --- !u!95 &1814542027893807728
 Animator:
   serializedVersion: 3

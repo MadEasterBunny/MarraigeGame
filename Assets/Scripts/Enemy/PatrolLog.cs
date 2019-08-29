@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PatrolLog : Log
 {
+    [Header("Path Specs")]
     public Transform[] path;
     public int currentPoint;
     public Transform currentGoal;
@@ -39,7 +40,7 @@ public class PatrolLog : Log
 
     private void ChangeGoal()
     {
-        if(currentPoint == path.Length -1)
+        if(currentPoint == path.Length - 1)
         {
             currentPoint = 0;
             currentGoal = path[0];

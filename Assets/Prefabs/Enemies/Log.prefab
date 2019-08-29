@@ -173,9 +173,6 @@ MonoBehaviour:
   deathEffect: {fileID: 7949116603624996916, guid: d984d3bb3407b7b408180b9383299e35,
     type: 3}
   sprite: {fileID: 0}
-  heartPiece: {fileID: 2439010350565622133, guid: bc6cbcd8b41264147a5a57f24715a327,
-    type: 3}
-  heartSpawnTime: 1
   myRigidbody: {fileID: 0}
   target: {fileID: 0}
   chaseRadius: 4

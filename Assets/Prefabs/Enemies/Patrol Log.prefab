@@ -213,6 +213,7 @@ MonoBehaviour:
   moveSpeed: 2
   deathEffect: {fileID: 7949116603624996916, guid: d984d3bb3407b7b408180b9383299e35,
     type: 3}
+  sprite: {fileID: 0}
   myRigidbody: {fileID: 0}
   target: {fileID: 0}
   chaseRadius: 3

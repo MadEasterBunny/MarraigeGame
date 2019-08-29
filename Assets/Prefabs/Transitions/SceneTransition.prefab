@@ -66,7 +66,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5956487669899266476}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -122,6 +122,10 @@ MonoBehaviour:
   sceneToLoad: HouseInterior
   playerPosition: {x: 0, y: -3}
   playerStorage: {fileID: 11400000, guid: 6cbd13096697e1f4eab07f910c2f26c7, type: 2}
+  cameraNewMin: {x: 0, y: 0}
+  cameraNewMax: {x: 0, y: 0}
+  cameraMin: {fileID: 0}
+  cameraMax: {fileID: 0}
   fadeInPanel: {fileID: 2538442708799837876, guid: cc8a8f3a0f5ce8c4babd8f63e37288f4,
     type: 3}
   fadeOutPanel: {fileID: 4074071282162072339, guid: d6d4c698b11660a44bb5b1cc70e85a46,
