@@ -5,29 +5,37 @@ using UnityEngine.UI;
 
 public class Subtitles : MonoBehaviour
 {
-    //public GameObject subtitlePanel;
+    public GameObject subtitlePanel;
     public string[] subtitles;
     public Text text;
-    private int currentLine;
+    public int currentLine = 0;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        if (currentLine >= subtitles.Length)
-        {
-            currentLine = 0;
-        }
-    }
-
-    // Update is called once per frame
     void Update()
     {
+        ShowSubtitles();
+    }
 
+    public void AdvanceConversation()
+    {
+        if (currentLine <= subtitles.Length)
+        {
+            //ShowSubtitles();
+            currentLine += 1;
+        }
+
+        if (currentLine == subtitles.Length)
+        {
+           subtitlePanel.SetActive(false);
+        }
     }
 
     public void ShowSubtitles()
     {
-       text.text = subtitles[currentLine];
-        currentLine++;
+        if(Input.GetKeyDown(KeyCode.E))
+        {
+            subtitlePanel.SetActive(true);
+            text.text = subtitles[currentLine];
+            AdvanceConversation();
+        }
     }
 }

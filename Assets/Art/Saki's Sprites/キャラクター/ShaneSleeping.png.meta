@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 10ffc6bcb38085744acc3ebe50399662
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3070082884359587821
+    second: ShaneSleeping_0
+  - first:
+      213: -6260114902436743147
+    second: ShaneSleeping_1
+  - first:
+      213: -6071657239541366179
+    second: ShaneSleeping_2
+  - first:
+      213: -7582330384606359246
+    second: ShaneSleeping_3
+  - first:
+      213: 1861251042803699756
+    second: ShaneSleeping_4
+  - first:
+      213: -7218484534262055630
+    second: ShaneSleeping_5
+  - first:
+      213: -6127274369250237564
+    second: ShaneSleeping_6
+  - first:
+      213: 7550005457451587564
+    second: ShaneSleeping_7
+  - first:
+      213: 4743794029557200080
+    second: ShaneSleeping_8
+  - first:
+      213: 8109151212522850712
+    second: ShaneSleeping_9
+  - first:
+      213: -7843715704910859283
+    second: ShaneSleeping_10
+  - first:
+      213: -7186514875588706976
+    second: ShaneSleeping_11
+  - first:
+      213: -1554392943349922984
+    second: ShaneSleeping_12
+  - first:
+      213: 5821906902673669655
+    second: ShaneSleeping_13
+  - first:
+      213: 8192473470410624160
+    second: ShaneSleeping_14
+  - first:
+      213: -3726568908849842585
+    second: ShaneSleeping_15
+  - first:
+      213: -5186585594801084201
+    second: ShaneSleeping_16
+  - first:
+      213: 8876591426663300032
+    second: ShaneSleeping_17
+  - first:
+      213: -4557146066102032637
+    second: ShaneSleeping_18
+  - first:
+      213: 2605567854443160092
+    second: ShaneSleeping_19
+  - first:
+      213: -5450453747676303488
+    second: ShaneSleeping_20
+  - first:
+      213: -831587451401751559
+    second: ShaneSleeping_21
+  - first:
+      213: -829053194757888788
+    second: ShaneSleeping_22
+  - first:
+      213: 5401843678038333183
+    second: ShaneSleeping_23
+  - first:
+      213: 3167039263367583993
+    second: ShaneSleeping_24
+  - first:
+      213: 1461596311800587704
+    second: ShaneSleeping_25
+  - first:
+      213: -3813791588695984577
+    second: ShaneSleeping_26
+  - first:
+      213: -2001437883164794842
+    second: ShaneSleeping_27
+  - first:
+      213: -3871979975429838471
+    second: ShaneSleeping_28
+  - first:
+      213: -1659162933684864348
+    second: ShaneSleeping_29
+  - first:
+      213: -5370266230049550807
+    second: ShaneSleeping_30
+  - first:
+      213: 1724311072796210560
+    second: ShaneSleeping_31
+  - first:
+      213: 2631640739366504835
+    second: ShaneSleeping_32
+  - first:
+      213: -5794824878303396433
+    second: ShaneSleeping_33
+  - first:
+      213: 7812509532423124821
+    second: ShaneSleeping_34
+  - first:
+      213: 7009460350915316029
+    second: ShaneSleeping_35
+  - first:
+      213: -3991175571186640277
+    second: ShaneSleeping_36
+  - first:
+      213: -7785176059717754338
+    second: ShaneSleeping_37
+  - first:
+      213: 3646338264819890024
+    second: ShaneSleeping_38
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShaneSleeping_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 225
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c1093e3cefa94c93f174d44a30838
+      internalID: 3070082884359587821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a9a2a978775c04b94ec79aa2eb516f
+      internalID: -6260114902436743147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 225
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d22ccb77b88b41aaf0dcd81b75a9e
+      internalID: -6071657239541366179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e585f56ee599c45bef07d6e2e4fd54
+      internalID: -7582330384606359246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a6f1d783534d24fbf0fed5240cf2f4
+      internalID: 1861251042803699756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 225
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f88ccec4fc3a647851f0d557f55452
+      internalID: -7218484534262055630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01b4a260f08954d8cd8c06969d34fb
+      internalID: -6127274369250237564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 193
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1183a2cbd98cdb44aa0901e12acfeb6c
+      internalID: 7550005457451587564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 195
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca23ea142360c148b42b7f526983153
+      internalID: 4743794029557200080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 195
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b2a58d287e8b429b3bff8ee18d88f
+      internalID: 8109151212522850712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 193
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496da1763615c134f82295168d4d033e
+      internalID: -7843715704910859283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 195
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8ca3a560f60542993f679e641a0ef
+      internalID: -7186514875588706976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 163
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46afee357294e324b9af65d9a4c9279b
+      internalID: -1554392943349922984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 163
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e815cb50d5ce4e8b9a238c99dd28e
+      internalID: 5821906902673669655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 163
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf636ddef3114646b4c57255374d90c
+      internalID: 8192473470410624160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 164
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557bb527183454942ae30f08b08a816f
+      internalID: -3726568908849842585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be17c8b0ef391b74782e080e40c10bab
+      internalID: -5186585594801084201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8932d911f620f44a9361e8474b5beb
+      internalID: 8876591426663300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 131
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd12f7c3f2e5044ada186acbc554a7
+      internalID: -4557146066102032637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 131
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163af765dbc29514eb2a65450466f150
+      internalID: 2605567854443160092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 131
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ac55b5aa201c94eac2ee6f2376cc63
+      internalID: -5450453747676303488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 133
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f43f0ec6bb379468110f1da7f2a1d4
+      internalID: -831587451401751559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97228c943ec28b4c84719acb2a457a7
+      internalID: -829053194757888788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 133
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1951b7c3b3dd1fc4888a6c3114c5358c
+      internalID: 5401843678038333183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56c2306d2c13a44832b8b830fecfee
+      internalID: 3167039263367583993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 100
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b55bffd29e95468b815d59f0306b3
+      internalID: 1461596311800587704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 101
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a9eae813171564e81a81c2ff70ffd4
+      internalID: -3813791588695984577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 109
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeccdda71001804e95d21b49ba4aa7f
+      internalID: -2001437883164794842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e355a5cc56a7bd46a421bec047eb229
+      internalID: -3871979975429838471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4a10d816392b941863428997166030
+      internalID: -1659162933684864348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcac9bb30cc38114ea49f451b93a4c17
+      internalID: -5370266230049550807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 69
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf241d4cb1e64548837a98f0c18eb98
+      internalID: 1724311072796210560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140b1f2f3740f7b48a1b04456beab7e9
+      internalID: 2631640739366504835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 38
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc0ea3c56ad91489eb6f651f51ac18
+      internalID: -5794824878303396433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a931f8cf5e864a9f4f46bdd1bfa67
+      internalID: 7812509532423124821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 38
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24284b5c442958446a69164e186da14e
+      internalID: 7009460350915316029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddf6b4919c2a3b428468044e59ab3b2
+      internalID: -3991175571186640277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea6c0af2bd35e2469cf51ebd53112b8
+      internalID: -7785176059717754338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShaneSleeping_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61526752087625e4c9e2ec5211ad23c7
+      internalID: 3646338264819890024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2b6c41e554980c4bb0451763d2e0908
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

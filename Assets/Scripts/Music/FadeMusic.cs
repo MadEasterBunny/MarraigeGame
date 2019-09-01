@@ -27,6 +27,7 @@ public class FadeMusic : MonoBehaviour
     void Update()
     {
         //PlayMusic();
+        StopMusic();
     }
 
     /*public void PlayMusic()
@@ -41,6 +42,14 @@ public class FadeMusic : MonoBehaviour
     {
         StartCoroutine(FadeMusicOut());
         //fadeMusic.TransitionTo(m_TransitionOut);
+    }
+
+    public void StopMusic()
+    {
+        if(Input.GetKeyDown(KeyCode.M))
+        {
+            StartCoroutine(FadeMusicOut());
+        }
     }
 
     public IEnumerator FadeMusicOut()

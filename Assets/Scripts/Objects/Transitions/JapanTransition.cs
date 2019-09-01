@@ -23,6 +23,14 @@ public class JapanTransition : MonoBehaviour
         }
     }
 
+    private void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.T))
+        {
+            StartCoroutine(FadeCo());
+        }
+    }
+
     private void OnEnable()
     {
         StartCoroutine(FadeCo());

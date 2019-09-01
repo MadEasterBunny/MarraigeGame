@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: d746762b8276122478a1d64888b9f46c
+guid: 6e85836eedf675341b540c5540d1f899
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6683671278454107270
-    second: Matt nad Galen talking_0
+      213: -7922211376097531447
+    second: MatthewSittingHeadset_0
   - first:
-      213: -3790586351968103870
-    second: Matt nad Galen talking_1
+      213: 1142291168404453414
+    second: MatthewSittingHeadset_1
+  - first:
+      213: -3677775336180481856
+    second: MatthewSittingHeadset_2
+  - first:
+      213: -3318543589475236385
+    second: MatthewSittingHeadset_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -101,13 +107,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Matt nad Galen talking_0
+      name: MatthewSittingHeadset_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 80
-        width: 77
-        height: 102
+        x: 6
+        y: 220
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,20 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e6b4e765a312304ca27e32acfc96ac6
-      internalID: -6683671278454107270
+      spriteID: b5fa5d47b175fc9469ca0b63f163a844
+      internalID: -7922211376097531447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Matt nad Galen talking_1
+      name: MatthewSittingHeadset_1
       rect:
         serializedVersion: 2
-        x: 160
-        y: 78
-        width: 94
-        height: 103
+        x: 29
+        y: 220
+        width: 19
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,8 +142,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59fb2b66b79d39e4f8b31da934b396ed
-      internalID: -3790586351968103870
+      spriteID: 8ee5eb78ef6d3534e9b6455927501b02
+      internalID: 1142291168404453414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatthewSittingHeadset_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 220
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29da47aa5af43a47b43b986e2a8a678
+      internalID: -3677775336180481856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MatthewSittingHeadset_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 220
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcb1b81ce824ca49a2c7282cab80550
+      internalID: -3318543589475236385
       vertices: []
       indices: 
       edges: []
@@ -145,7 +193,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8ad58483e389b474680749e481d80cec
+    spriteID: fbc968f86d5cce14d8ed023341539110
     internalID: 0
     vertices: []
     indices: 

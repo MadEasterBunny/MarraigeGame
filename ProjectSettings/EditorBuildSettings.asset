@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EasternMichiganUniversity.unity
     guid: d24726f618fecbd46a196d538a5c8365
+  - enabled: 1
+    path: Assets/Scenes/JapaneseClassroom.unity
+    guid: be38d474717ba8349aebc5d982a3ad17
   m_configObjects: {}

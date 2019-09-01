@@ -9,6 +9,7 @@ TagManager:
   - Airplane
   - TextMessage
   - AudioController
+  - Student
   layers:
   - Default
   - TransparentFX
