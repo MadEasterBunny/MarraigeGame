@@ -14,22 +14,39 @@ public class GetKeyDownTransition : MonoBehaviour
     public GameObject fadeOutPanel;
     public float waitTime;
 
+    [Space]
+    [Header("Audio Controller")]
+    public GameObject audioController;
+
+    [Space]
+    [Header("Fade Variables")]
+    public float startSceneTransition;
+    public float startMusicFade;
+
     // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    private void Update()
+    /*private void Update()
     {
         if (Input.GetKeyDown(KeyCode.T))
         {
             StartCoroutine(FadeCo());
         }
+    }*/
+
+    public void OnEnable()
+    {
+        StartCoroutine(FadeCo());
     }
 
     public IEnumerator FadeCo()
     {
+        yield return new WaitForSeconds(startMusicFade);
+        audioController.gameObject.GetComponent<FadeMusic>().MusicStop();
+        yield return new WaitForSeconds(startSceneTransition);
         if (fadeOutPanel != null)
         {
             Instantiate(fadeOutPanel, Vector3.zero, Quaternion.identity);

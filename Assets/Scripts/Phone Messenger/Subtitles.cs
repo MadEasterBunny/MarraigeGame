@@ -31,11 +31,17 @@ public class Subtitles : MonoBehaviour
 
     public void ShowSubtitles()
     {
-        if(Input.GetKeyDown(KeyCode.E))
+        if(Input.GetMouseButtonDown(0))
         {
             subtitlePanel.SetActive(true);
             text.text = subtitles[currentLine];
             AdvanceConversation();
         }
+        /*if(Input.GetKeyDown(KeyCode.E))
+        {
+            subtitlePanel.SetActive(true);
+            text.text = subtitles[currentLine];
+            AdvanceConversation();
+        }*/
     }
 }

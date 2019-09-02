@@ -629,6 +629,7 @@
     <Compile Include="Assets\Scripts\Enemy\Log.cs" />
     <Compile Include="Assets\Scripts\Enemy\PatrolLog.cs" />
     <Compile Include="Assets\Scripts\Music\FadeMusic.cs" />
+    <Compile Include="Assets\Scripts\Music\FadeMusicOnEnable.cs" />
     <Compile Include="Assets\Scripts\Music\MusicBetweenScenes.cs" />
     <Compile Include="Assets\Scripts\Objects\Breakables.cs" />
     <Compile Include="Assets\Scripts\Objects\Coin.cs" />

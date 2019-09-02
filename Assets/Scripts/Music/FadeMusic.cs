@@ -40,8 +40,13 @@ public class FadeMusic : MonoBehaviour
 
     private void OnEnable()
     {
-        StartCoroutine(FadeMusicOut());
+        //StartCoroutine(FadeMusicOut());
         //fadeMusic.TransitionTo(m_TransitionOut);
+    }
+
+    public void MusicStop()
+    {
+        StartCoroutine(FadeMusicOut());
     }
 
     public void StopMusic()
