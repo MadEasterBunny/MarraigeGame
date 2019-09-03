@@ -624,6 +624,7 @@
     <Compile Include="Assets\Scripts\Dialogue\ClassroomDialogue.cs" />
     <Compile Include="Assets\Scripts\Dialogue\DialogueHolder.cs" />
     <Compile Include="Assets\Scripts\Dialogue\DialogueManager.cs" />
+    <Compile Include="Assets\Scripts\Dialogue\FadingText.cs" />
     <Compile Include="Assets\Scripts\Dialogue\SubtitlesDisplay.cs" />
     <Compile Include="Assets\Scripts\Enemy\Enemy.cs" />
     <Compile Include="Assets\Scripts\Enemy\Log.cs" />
@@ -646,6 +647,7 @@
     <Compile Include="Assets\Scripts\Objects\Transitions\GetKeyDownTransition.cs" />
     <Compile Include="Assets\Scripts\Objects\Transitions\JapanTransition.cs" />
     <Compile Include="Assets\Scripts\Objects\Transitions\SceneTransition.cs" />
+    <Compile Include="Assets\Scripts\Objects\Transitions\StoryTransition.cs" />
     <Compile Include="Assets\Scripts\Objects\Transitions\TimelineSceneTransition.cs" />
     <Compile Include="Assets\Scripts\Objects\TreasureChest.cs" />
     <Compile Include="Assets\Scripts\Other\CoinTextManager.cs" />

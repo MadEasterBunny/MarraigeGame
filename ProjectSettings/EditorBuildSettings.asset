@@ -9,20 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Overworld.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/HouseInterior.unity
-    guid: 96b13d8de70b91a47bd4d87e74113f55
+    path: Assets/Scenes/Title.unity
+    guid: 6215aa589658c454799cc6d33b1f882a
   - enabled: 1
-    path: Assets/Scenes/Dungeon.unity
-    guid: aecbc63df3b20c049b6d4db3f9828305
-  - enabled: 1
-    path: Assets/Scenes/Airplane.unity
-    guid: 3e7fe8d525b1a8647ae7185254a79c31
-  - enabled: 1
-    path: Assets/Scenes/Saki'sHouse.unity
-    guid: 532b7418bbd71a24bab6462fadfe4d0e
-  - enabled: 1
-    path: Assets/Scenes/Saki'sHouseInterior.unity
-    guid: 6c717532210c91742bdf5262c47620ec
+    path: Assets/Scenes/Matthew'sStory.unity
+    guid: 4201b4cb82d5ba64f93ca84248bfdfb4
   - enabled: 1
     path: Assets/Scenes/Matthew'sHouse.unity
     guid: d2fb2c2f50f719f4b986c5ccc24d63dc
@@ -35,4 +26,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JapaneseClassroom.unity
     guid: be38d474717ba8349aebc5d982a3ad17
+  - enabled: 1
+    path: Assets/Scenes/Saki'sHouse.unity
+    guid: 532b7418bbd71a24bab6462fadfe4d0e
+  - enabled: 1
+    path: Assets/Scenes/Saki'sHouseInterior.unity
+    guid: 6c717532210c91742bdf5262c47620ec
+  - enabled: 1
+    path: Assets/Scenes/Airplane.unity
+    guid: 3e7fe8d525b1a8647ae7185254a79c31
+  - enabled: 1
+    path: Assets/Scenes/HouseInterior.unity
+    guid: 96b13d8de70b91a47bd4d87e74113f55
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: aecbc63df3b20c049b6d4db3f9828305
+  - enabled: 1
+    path: Assets/Scenes/SmartPhone.unity
+    guid: ae10d2cb10b39ef4aa56524c78f95046
   m_configObjects: {}
