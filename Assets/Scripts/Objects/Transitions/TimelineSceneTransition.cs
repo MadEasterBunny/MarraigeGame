@@ -26,7 +26,7 @@ public class TimelineSceneTransition : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player") || collision.CompareTag("Airplane") && !collision.isTrigger)
+        if (collision.CompareTag("Player") || collision.CompareTag("Airplane") || collision.CompareTag("Saki") && !collision.isTrigger)
         {
             StartCoroutine(FadeCo());
         }

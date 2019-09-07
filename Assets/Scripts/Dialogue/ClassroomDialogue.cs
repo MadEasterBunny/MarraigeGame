@@ -20,6 +20,8 @@ public class ClassroomDialogue : MonoBehaviour
     public int activeLineIndexStudent = 0;
     public int activeLineIndexTeacher = 0;
 
+    public int numOfText;
+
     public bool teacherTalk = true;
 
     private void Start()

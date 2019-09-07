@@ -42,7 +42,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 6bf6eb7ffdfb06a4a84864436419b3aa, type: 3}
-    totalSpriteSurfaceArea: 6681551
+    totalSpriteSurfaceArea: 7008105
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -109,12 +109,14 @@ SpriteAtlas:
   - {fileID: 6523708143279962383, guid: 1b822ae114d62f74d859705aa31efedd, type: 3}
   - {fileID: -2543243258518547574, guid: 1b822ae114d62f74d859705aa31efedd, type: 3}
   - {fileID: 21300000, guid: 93ec87f1f187a0649b9750a51eb124c7, type: 3}
+  - {fileID: 21300000, guid: 818234026667c6245bd4e3ced4c17611, type: 3}
   - {fileID: -7927118259818946394, guid: 17f3ed0229bb5f4448538e27e16d4364, type: 3}
   - {fileID: -4212418679976547291, guid: 17f3ed0229bb5f4448538e27e16d4364, type: 3}
   - {fileID: 8581043722508265695, guid: 17f3ed0229bb5f4448538e27e16d4364, type: 3}
   - {fileID: -8135760274350661433, guid: 17f3ed0229bb5f4448538e27e16d4364, type: 3}
   - {fileID: 21300000, guid: 3b24ea529cc63b240b2874b6e143e019, type: 3}
   - {fileID: 21300000, guid: 0536087205987c24887aa5f69cc80aa0, type: 3}
+  - {fileID: 21300000, guid: 2d18de82a4b9b1447a42d6be42269649, type: 3}
   - {fileID: 21300000, guid: a7ee4bb2fc1ad36498a7c8badadc010f, type: 3}
   - {fileID: -7074133672870789545, guid: 9f5c633338486ef45a56858549521fc4, type: 3}
   - {fileID: 9111781805392673324, guid: 9f5c633338486ef45a56858549521fc4, type: 3}
@@ -1864,6 +1866,10 @@ SpriteAtlas:
   - {fileID: 1071432169904958590, guid: bd819964700007f45af73cfd2cd2c3ab, type: 3}
   - {fileID: -2918372881827868631, guid: bd819964700007f45af73cfd2cd2c3ab, type: 3}
   - {fileID: -4904484868774054135, guid: bd819964700007f45af73cfd2cd2c3ab, type: 3}
+  - {fileID: 1642366058167008823, guid: cd887e64423e0b0409a53150c43e809f, type: 3}
+  - {fileID: 4373867278403957607, guid: cd887e64423e0b0409a53150c43e809f, type: 3}
+  - {fileID: -2752055116602361211, guid: cd887e64423e0b0409a53150c43e809f, type: 3}
+  - {fileID: -7683336930232253866, guid: cd887e64423e0b0409a53150c43e809f, type: 3}
   - {fileID: 21300000, guid: e0cf45942721b7e41b62b6ef4d5f7ea5, type: 3}
   - {fileID: 21300000, guid: ca9323a462afe20438adfc3357148b76, type: 3}
   - {fileID: 21300000, guid: 3c98dcc49155bf043a06fd299b175349, type: 3}
@@ -2022,6 +2028,7 @@ SpriteAtlas:
   - {fileID: 2226519280794600408, guid: 2fd54cf56cb635a41a7fad3708fbc4fd, type: 3}
   - {fileID: 21300000, guid: 0fad1f06c903e3e4ba86d20d6147016e, type: 3}
   - {fileID: 21300000, guid: 432dcb56902d3fd46b511646600806ed, type: 3}
+  - {fileID: 21300000, guid: ad06b2a620e215345b0d8696fd683eb7, type: 3}
   - {fileID: 21301654, guid: 366ebcc6e3ecd464cab382d6db62dcde, type: 3}
   - {fileID: 21301674, guid: 366ebcc6e3ecd464cab382d6db62dcde, type: 3}
   - {fileID: 21301694, guid: 366ebcc6e3ecd464cab382d6db62dcde, type: 3}
@@ -3095,6 +3102,9 @@ SpriteAtlas:
   - {fileID: 21301246, guid: 366ebcc6e3ecd464cab382d6db62dcde, type: 3}
   - {fileID: 21301346, guid: 366ebcc6e3ecd464cab382d6db62dcde, type: 3}
   - {fileID: 21300258, guid: 366ebcc6e3ecd464cab382d6db62dcde, type: 3}
+  - {fileID: 21300000, guid: 04b64807cd95ba34f85c7235d871cee1, type: 3}
+  - {fileID: 5291673252569118272, guid: 4857b7178d4c19d439ad507eee2933aa, type: 3}
+  - {fileID: -963955220889740314, guid: 4857b7178d4c19d439ad507eee2933aa, type: 3}
   - {fileID: 21300000, guid: 02f46557df2b569489305734eb0d1cb1, type: 3}
   - {fileID: -4585664606391180004, guid: 8a27d2b7c02ebd345840f171f21a8ca7, type: 3}
   - {fileID: 6807401991546363471, guid: 8a27d2b7c02ebd345840f171f21a8ca7, type: 3}
@@ -3278,6 +3288,14 @@ SpriteAtlas:
   - {fileID: -3228679953124181438, guid: 1914936aac0645a4682dec1c82810c7c, type: 3}
   - {fileID: 5773123958236383440, guid: 1914936aac0645a4682dec1c82810c7c, type: 3}
   - {fileID: 5034154957236252351, guid: 9fe4397a062694e4ea9dbca62a43e338, type: 3}
+  - {fileID: 3635877128577427028, guid: 5f52329ad08d2534b8d36a46e06b5c41, type: 3}
+  - {fileID: 5240759069354033753, guid: 5f52329ad08d2534b8d36a46e06b5c41, type: 3}
+  - {fileID: 2278837331691112888, guid: 5f52329ad08d2534b8d36a46e06b5c41, type: 3}
+  - {fileID: 1137832866174291082, guid: 5f52329ad08d2534b8d36a46e06b5c41, type: 3}
+  - {fileID: 6936099296285937021, guid: 5f52329ad08d2534b8d36a46e06b5c41, type: 3}
+  - {fileID: -1611188853006526331, guid: 5f52329ad08d2534b8d36a46e06b5c41, type: 3}
+  - {fileID: 5722576064222309443, guid: 9a7e8edabdb981442a4301f332c7960a, type: 3}
+  - {fileID: 9145470296366288030, guid: 9a7e8edabdb981442a4301f332c7960a, type: 3}
   - {fileID: 6694790577142635376, guid: 6bc362fa452960747871bd1412d8fd71, type: 3}
   - {fileID: -3616874807352312264, guid: 6bc362fa452960747871bd1412d8fd71, type: 3}
   - {fileID: -3515423925274232785, guid: 6bc362fa452960747871bd1412d8fd71, type: 3}
@@ -3766,6 +3784,12 @@ SpriteAtlas:
   - {fileID: -5421331578501579610, guid: 6bc362fa452960747871bd1412d8fd71, type: 3}
   - {fileID: 397377895481145643, guid: 6bc362fa452960747871bd1412d8fd71, type: 3}
   - {fileID: -1622950104464118520, guid: 6bc362fa452960747871bd1412d8fd71, type: 3}
+  - {fileID: -4919006115477053149, guid: b8090c7b715819e44bf5d562369fe65d, type: 3}
+  - {fileID: 2235462840682805810, guid: b8090c7b715819e44bf5d562369fe65d, type: 3}
+  - {fileID: 4801196627404384330, guid: b8090c7b715819e44bf5d562369fe65d, type: 3}
+  - {fileID: -7220020470831513051, guid: b8090c7b715819e44bf5d562369fe65d, type: 3}
+  - {fileID: 3487860143709981770, guid: b8090c7b715819e44bf5d562369fe65d, type: 3}
+  - {fileID: -6431014917149729662, guid: b8090c7b715819e44bf5d562369fe65d, type: 3}
   - {fileID: 8025625328260054379, guid: fca043cb7f2f70443a7c37e4068dbc4a, type: 3}
   - {fileID: -1355958461209586505, guid: fca043cb7f2f70443a7c37e4068dbc4a, type: 3}
   - {fileID: -8652985119530170687, guid: fca043cb7f2f70443a7c37e4068dbc4a, type: 3}
@@ -3814,7 +3838,17 @@ SpriteAtlas:
   - {fileID: -7765366507673721942, guid: fca043cb7f2f70443a7c37e4068dbc4a, type: 3}
   - {fileID: -2011726007906474985, guid: fca043cb7f2f70443a7c37e4068dbc4a, type: 3}
   - {fileID: 2226519280794600408, guid: fca043cb7f2f70443a7c37e4068dbc4a, type: 3}
-  - {fileID: 21300000, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: 8912464987140437479, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: -4351311606490006601, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: 7383982309671543382, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: -2724640000489973808, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: -2738845784600840, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: 2236840325361914085, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: 4379823379615458069, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: -4514401099869597025, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: 3346833587935791931, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: -1440004791499327681, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
+  - {fileID: 4716217123639924132, guid: 707422db1d3402e4894fc37f32b6d4f0, type: 3}
   - {fileID: -872947984015748712, guid: 125ac6fb13cf7b74faf4abe8446587dc, type: 3}
   - {fileID: 4004008643541842471, guid: 125ac6fb13cf7b74faf4abe8446587dc, type: 3}
   - {fileID: 6703265110210787806, guid: 125ac6fb13cf7b74faf4abe8446587dc, type: 3}
@@ -4283,6 +4317,8 @@ SpriteAtlas:
   - {fileID: 538826285080647454, guid: 13335b3d88d01334c8285c466c3f344a, type: 3}
   - {fileID: 1107736971085435061, guid: 13335b3d88d01334c8285c466c3f344a, type: 3}
   - {fileID: -377563455374678323, guid: 13335b3d88d01334c8285c466c3f344a, type: 3}
+  - {fileID: -8203384970234852585, guid: 9f52397dcbb60d24ab37ecb91892ae7f, type: 3}
+  - {fileID: -4863306327940269602, guid: 9f52397dcbb60d24ab37ecb91892ae7f, type: 3}
   - {fileID: 21300000, guid: 4af003dd137f17b46b554b1f292ebb4d, type: 3}
   - {fileID: -8052133686551249719, guid: 9917acfddc86fc44db171bbc7b58ca7a, type: 3}
   - {fileID: 4724829101945916842, guid: 9917acfddc86fc44db171bbc7b58ca7a, type: 3}
@@ -4456,12 +4492,14 @@ SpriteAtlas:
   - England_1
   - England_0
   - UpWalkLeftFoot
+  - Saki air plane
   - Matt is sitting 1_3
   - Matt is sitting 1_2
   - Matt is sitting 1_1
   - Matt is sitting 1_0
   - Matthew house
   - LeftIdle
+  - Air plane
   - Lisa,Steve and Shane
   - Outside Objects_276
   - Outside Objects_277
@@ -6211,6 +6249,10 @@ SpriteAtlas:
   - Classroom_2
   - Classroom_9
   - Classroom_8
+  - SakiReading_0
+  - SakiReading_1
+  - SakiReading_2
+  - SakiReading_3
   - foodfromcts1a
   - Saki house
   - RightWalk
@@ -6369,6 +6411,7 @@ SpriteAtlas:
   - Matthew and Saki Wedding_26
   - DownWalkLeftFoot
   - Matthew house
+  - Sea
   - Overworld_827
   - Overworld_837
   - Overworld_847
@@ -7442,6 +7485,9 @@ SpriteAtlas:
   - Overworld_623
   - Overworld_673
   - Overworld_129
+  - England map
+  - Sleeping Hachi_0
+  - Sleeping Hachi_1
   - Saki room
   - Matthew's room _9
   - Matthew's room _8
@@ -7625,6 +7671,14 @@ SpriteAtlas:
   - Meow cat_0
   - Meow cat_1
   - "big\u98DB\u884C\u6A5F_0"
+  - Saki class room 1_0
+  - Saki class room 1_1
+  - Saki class room 1_2
+  - Saki class room 1_3
+  - Saki class room 1_4
+  - Saki class room 1_5
+  - London bridge_1
+  - London bridge_0
   - tilemap_packed_168
   - tilemap_packed_169
   - tilemap_packed_179
@@ -8113,6 +8167,12 @@ SpriteAtlas:
   - tilemap_packed_373
   - tilemap_packed_372
   - Car
+  - Saki class room_1
+  - Saki class room_0
+  - Saki class room_3
+  - Saki class room_2
+  - Saki class room_5
+  - Saki class room_4
   - Matthew and Saki Wedding_47
   - Matthew and Saki Wedding_46
   - Matthew and Saki Wedding_45
@@ -8161,7 +8221,17 @@ SpriteAtlas:
   - Matthew and Saki Wedding_24
   - Matthew and Saki Wedding_27
   - Matthew and Saki Wedding_26
-  - Saki's room
+  - Saki's room_10
+  - Saki's room_9
+  - Saki's room_8
+  - Saki's room_7
+  - Saki's room_6
+  - Saki's room_5
+  - Saki's room_4
+  - Saki's room_3
+  - Saki's room_2
+  - Saki's room_1
+  - Saki's room_0
   - modified gfx melee sprites_15
   - modified gfx melee sprites_14
   - modified gfx melee sprites_13
@@ -8630,6 +8700,8 @@ SpriteAtlas:
   - objects_119
   - objects_109
   - objects_108
+  - English teacher_0
+  - English teacher_1
   - key
   - Matthew and Saki Wedding_54
   - Matthew and Saki Wedding_55

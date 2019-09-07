@@ -782,6 +782,7 @@ MonoBehaviour:
   - "\u304A"
   activeLineIndexStudent: 0
   activeLineIndexTeacher: 0
+  numOfText: 0
   teacherTalk: 1
 --- !u!4 &649818513
 Transform:

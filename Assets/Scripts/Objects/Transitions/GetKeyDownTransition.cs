@@ -29,14 +29,6 @@ public class GetKeyDownTransition : MonoBehaviour
         
     }
 
-    /*private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.T))
-        {
-            StartCoroutine(FadeCo());
-        }
-    }*/
-
     public void OnEnable()
     {
         StartCoroutine(FadeCo());
