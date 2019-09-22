@@ -618,6 +618,7 @@
     <Compile Include="Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\Camera\ColorChange.cs" />
+    <Compile Include="Assets\Scripts\Controller\SetActiveController.cs" />
     <Compile Include="Assets\Scripts\Dialogue Unused\DialogueDisplay.cs" />
     <Compile Include="Assets\Scripts\Dialogue Unused\DialogueSetup.cs" />
     <Compile Include="Assets\Scripts\Dialogue Unused\TextHandler.cs" />
@@ -651,8 +652,11 @@
     <Compile Include="Assets\Scripts\Objects\Transitions\TimelineSceneTransition.cs" />
     <Compile Include="Assets\Scripts\Objects\TreasureChest.cs" />
     <Compile Include="Assets\Scripts\Other\CoinTextManager.cs" />
+    <Compile Include="Assets\Scripts\Other\EnableFlowchart.cs" />
     <Compile Include="Assets\Scripts\Other\KnockBack.cs" />
+    <Compile Include="Assets\Scripts\Other\MoveLeft.cs" />
     <Compile Include="Assets\Scripts\Other\SignalListener.cs" />
+    <Compile Include="Assets\Scripts\Parallax\Parallax.cs" />
     <Compile Include="Assets\Scripts\Phone Messenger\MessageMover.cs" />
     <Compile Include="Assets\Scripts\Phone Messenger\PhoneMessengerManager.cs" />
     <Compile Include="Assets\Scripts\Phone Messenger\PhoneTextHandler.cs" />

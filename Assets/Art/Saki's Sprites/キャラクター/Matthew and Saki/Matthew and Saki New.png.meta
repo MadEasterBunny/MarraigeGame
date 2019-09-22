@@ -1,0 +1,1792 @@
+fileFormatVersion: 2
+guid: bcb14c545e7313545b10e2f0d7953c9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9039597632354186127
+    second: Matthew and Saki New_0
+  - first:
+      213: -2020318061107301521
+    second: Matthew and Saki New_1
+  - first:
+      213: 137934018970724359
+    second: Matthew and Saki New_2
+  - first:
+      213: -3182092154817778027
+    second: Matthew and Saki New_3
+  - first:
+      213: 2150108175694776459
+    second: Matthew and Saki New_4
+  - first:
+      213: 301743164746228798
+    second: Matthew and Saki New_5
+  - first:
+      213: -4876825715089460702
+    second: Matthew and Saki New_6
+  - first:
+      213: 3390150828734964096
+    second: Matthew and Saki New_7
+  - first:
+      213: 2669939174163568661
+    second: Matthew and Saki New_8
+  - first:
+      213: 2949470256913376974
+    second: Matthew and Saki New_9
+  - first:
+      213: 893627417555894333
+    second: Matthew and Saki New_10
+  - first:
+      213: -487428029700586318
+    second: Matthew and Saki New_11
+  - first:
+      213: -6547641574413309756
+    second: Matthew and Saki New_12
+  - first:
+      213: 841916035139808822
+    second: Matthew and Saki New_13
+  - first:
+      213: -424782439799392592
+    second: Matthew and Saki New_14
+  - first:
+      213: -2721308856421614088
+    second: Matthew and Saki New_15
+  - first:
+      213: 6194600948655340871
+    second: Matthew and Saki New_16
+  - first:
+      213: 8633876402712122290
+    second: Matthew and Saki New_17
+  - first:
+      213: 1168125898381840500
+    second: Matthew and Saki New_18
+  - first:
+      213: -8068892489227826388
+    second: Matthew and Saki New_19
+  - first:
+      213: 4852110694514259199
+    second: Matthew and Saki New_20
+  - first:
+      213: -6184716303624623602
+    second: Matthew and Saki New_21
+  - first:
+      213: -635574328259635097
+    second: Matthew and Saki New_22
+  - first:
+      213: -975541790136505727
+    second: Matthew and Saki New_23
+  - first:
+      213: -5938673400051847518
+    second: Matthew and Saki New_24
+  - first:
+      213: -1661153150617560146
+    second: Matthew and Saki New_25
+  - first:
+      213: -5274352970169489964
+    second: Matthew and Saki New_26
+  - first:
+      213: -8019311773051718047
+    second: Matthew and Saki New_27
+  - first:
+      213: -7713918921496818793
+    second: Matthew and Saki New_28
+  - first:
+      213: 2670127366514310754
+    second: Matthew and Saki New_29
+  - first:
+      213: 3508092263609442207
+    second: Matthew and Saki New_30
+  - first:
+      213: 4656493836889157998
+    second: Matthew and Saki New_31
+  - first:
+      213: -7034146175669469097
+    second: Matthew and Saki New_32
+  - first:
+      213: -7700886549162216733
+    second: Matthew and Saki New_33
+  - first:
+      213: 4418020023405264552
+    second: Matthew and Saki New_34
+  - first:
+      213: -3133126632554157933
+    second: Matthew and Saki New_35
+  - first:
+      213: -452263752199116005
+    second: Matthew and Saki New_36
+  - first:
+      213: -3226709251344319344
+    second: Matthew and Saki New_37
+  - first:
+      213: -4357682648147850058
+    second: Matthew and Saki New_38
+  - first:
+      213: 4480379009633815851
+    second: Matthew and Saki New_39
+  - first:
+      213: 6761755433904588857
+    second: Matthew and Saki New_40
+  - first:
+      213: -8323806980727967439
+    second: Matthew and Saki New_41
+  - first:
+      213: 7056817703865637417
+    second: Matthew and Saki New_42
+  - first:
+      213: 6236479105686018641
+    second: Matthew and Saki New_43
+  - first:
+      213: -8449440761532036982
+    second: Matthew and Saki New_44
+  - first:
+      213: 8746619784701884319
+    second: Matthew and Saki New_45
+  - first:
+      213: -6527134329482546250
+    second: Matthew and Saki New_46
+  - first:
+      213: 5157994332723442565
+    second: Matthew and Saki New_47
+  - first:
+      213: -7903292983277113493
+    second: Matthew and Saki New_48
+  - first:
+      213: -5176115849370615096
+    second: Matthew and Saki New_49
+  - first:
+      213: -3255845488101645701
+    second: Matthew and Saki New_50
+  - first:
+      213: -856441730983075274
+    second: Matthew and Saki New_51
+  - first:
+      213: 4443846339062468000
+    second: Matthew and Saki New_52
+  - first:
+      213: 5453330795537306028
+    second: Matthew and Saki New_53
+  - first:
+      213: -4909445594394911210
+    second: Matthew and Saki New_54
+  - first:
+      213: -607917907628754747
+    second: Matthew and Saki New_55
+  - first:
+      213: -3122094744057245781
+    second: Matthew and Saki New_56
+  - first:
+      213: -1824591653744272041
+    second: Matthew and Saki New_57
+  - first:
+      213: -9043638383853793960
+    second: Matthew and Saki New_58
+  - first:
+      213: 5722415478456006345
+    second: Matthew and Saki New_59
+  - first:
+      213: -2289275252192559965
+    second: Matthew and Saki New_60
+  - first:
+      213: -7685325951255985254
+    second: Matthew and Saki New_61
+  - first:
+      213: 4605177357462369902
+    second: Matthew and Saki New_62
+  - first:
+      213: 3564067956498521630
+    second: Matthew and Saki New_63
+  - first:
+      213: 4008393031426707151
+    second: Matthew and Saki New_64
+  - first:
+      213: 3335018742109224700
+    second: Matthew and Saki New_65
+  - first:
+      213: -6193142333148850628
+    second: Matthew and Saki New_66
+  - first:
+      213: 6126921485559164709
+    second: Matthew and Saki New_67
+  - first:
+      213: 1388757036069370838
+    second: Matthew and Saki New_68
+  - first:
+      213: 8673836568849378247
+    second: Matthew and Saki New_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matthew and Saki New_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8e1629e94b2264da23617af9ef5b35
+      internalID: -9039597632354186127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7602840cec75479d29003b8725870
+      internalID: -2020318061107301521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e15f7ee001614f8db8d791d5404f6
+      internalID: 137934018970724359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff741aee4f6e784488ceff8f87ee528
+      internalID: -3182092154817778027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 223
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1cedec0a7bf4d4ea925a628d661a3b
+      internalID: 2150108175694776459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0297755e8ed1d4a90081cc773238b6
+      internalID: 301743164746228798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb31c19fba4c5b44a9b414b2c75d4121
+      internalID: -4876825715089460702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3331615eaeee84f83528e687c57d9d
+      internalID: 3390150828734964096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416a4ed7cbbd1ec4a8eb0d3213d2bcb3
+      internalID: 2669939174163568661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 223
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f5ab4c2bde88c4d89b76cf44d2c62e
+      internalID: 2949470256913376974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 223
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d7570da32c804591f5a4fe18f305b
+      internalID: 893627417555894333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 223
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fdcb2b8844f6b41ad697a14b2123c1
+      internalID: -487428029700586318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482aab1aa47a25149ba2684bd9cf4199
+      internalID: -6547641574413309756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5900da71057947c42adbc38a51a6903a
+      internalID: 841916035139808822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7085e408ac213945b0c9d97b8aa99e0
+      internalID: -424782439799392592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d817497d7cbb4990e91d097a42f95
+      internalID: -2721308856421614088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 191
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb07e1dca307664da05d950ba4aca67
+      internalID: 6194600948655340871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964623151811e8478372b528d0a6a6e
+      internalID: 8633876402712122290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662428995bce9434c884db8f8617df7f
+      internalID: 1168125898381840500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a279837dfc6a4a4187e708f8aa662f3
+      internalID: -8068892489227826388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4dc33248629514295f1a270ba3f8a1
+      internalID: 4852110694514259199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 192
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b938f90705ac7f243b9b50522a9379ca
+      internalID: -6184716303624623602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 191
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58af1fa41a72bc4d969b1fab7dfb691
+      internalID: -635574328259635097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 192
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e8177aa1502e41b2ae7c2af34e8f4
+      internalID: -975541790136505727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c398096d506ea408d1b8d5d5415959
+      internalID: -5938673400051847518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ed43d6efac48409ef13dfd0002a39
+      internalID: -1661153150617560146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e077370b610834fa7fca720889a2bc
+      internalID: -5274352970169489964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1581c21a67f49034184541660b4f3dc2
+      internalID: -8019311773051718047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec1f52c8f0da74dae712e6a4e99085
+      internalID: -7713918921496818793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9a8ace7c49abd44b6679f5c4faeeb7
+      internalID: 2670127366514310754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea387fa3d92284ca4804c08b5849f1
+      internalID: 3508092263609442207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e7dbb14a2ddd04c9195407a5e6e4af
+      internalID: 4656493836889157998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097d289b8db4f654aac73799c01ed274
+      internalID: -7034146175669469097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 159
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705de1cc7e71c574a9822a2102f0f715
+      internalID: -7700886549162216733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 159
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e37c02a9e700a4e902966f0a000dcd
+      internalID: 4418020023405264552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 159
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a97ff346739e34e95ba81eac640209
+      internalID: -3133126632554157933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f327c05bcfe4447b5dcf3fbfb53679
+      internalID: -452263752199116005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0a0f50ed5e10498607556d60451c5
+      internalID: -3226709251344319344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e773a0dfec11439f2d8aaf27d131d
+      internalID: -4357682648147850058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3f3da5f13cc9f4da5abb622d282bd1
+      internalID: 4480379009633815851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 127
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0b2ff15c5941458532deeedc6d884
+      internalID: 6761755433904588857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f266208ed633f4eb3468b50ef14ecf
+      internalID: -8323806980727967439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67fbdba7303616419306481c2ec598f
+      internalID: 7056817703865637417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0932087e1fee2454fabbec608dd53d80
+      internalID: 6236479105686018641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44497bb1108ded14d8cc3d510ce7ea89
+      internalID: -8449440761532036982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7225de47c2f4ef45830e4e18b21d0f1
+      internalID: 8746619784701884319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 127
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad1a5a914c6ee44b6e88f260a5014a
+      internalID: -6527134329482546250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb5eecfb09a5f47b63b9e25626f68d
+      internalID: 5157994332723442565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9495f475cda47bf44ba40db389f3b61b
+      internalID: -7903292983277113493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948d925e3ebe2847baae76b31d17b7e
+      internalID: -5176115849370615096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 97
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4df0a9576d37d4480576fdcdcecb85
+      internalID: -3255845488101645701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7f1074602e5346a27fd248dc479b1
+      internalID: -856441730983075274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 97
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a88c516245c104db54376e808ea060
+      internalID: 4443846339062468000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 97
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3892f01bdfbe5a14c82857c4233b67da
+      internalID: 5453330795537306028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5a14cc8b8d69499b785ff033f592b
+      internalID: -4909445594394911210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 66
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d10ea9de321744da2003b0c6170cef
+      internalID: -607917907628754747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdf7d3304ec829479d59d506fa30942
+      internalID: -3122094744057245781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587cd13257f18c641bcb322af2afae3e
+      internalID: -1824591653744272041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc05143cf7eefd4c871f914fa5c8e92
+      internalID: -9043638383853793960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a7fa70813f914fb607356759c6864
+      internalID: 5722415478456006345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3bcf5271dcce541aca2abee48488e9
+      internalID: -2289275252192559965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6d328b1c493647b53cb4ed3b4a52d
+      internalID: -7685325951255985254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_62
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6210fc2c7d92c7747a0ec5b3e7dc2889
+      internalID: 4605177357462369902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 39
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7bdc799bd8d34e874c2486024f56e
+      internalID: 3564067956498521630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd58f8c48b2669428680db83104c961
+      internalID: 4008393031426707151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e859caa5bd321e041a48c007711f43e4
+      internalID: 3335018742109224700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74af64c37ae9994593ce21303df7926
+      internalID: -6193142333148850628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 39
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c71515e3b0c7d4ead510bd907a6b3b
+      internalID: 6126921485559164709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a7d423cbec5643af736ecdcd73afe
+      internalID: 1388757036069370838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki New_69
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab625ebe3edf134c9bc71fe1f385024
+      internalID: 8673836568849378247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 82c5db949614483419be9e82b37f78be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
