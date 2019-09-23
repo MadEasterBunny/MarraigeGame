@@ -62,6 +62,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Airport.unity
     guid: 21dff3d93690bd14e82bb202817a7e3e
+  - enabled: 1
+    path: Assets/Scenes/StudyAbroadJapanAndMarriageBegins.unity
+    guid: a04470261813ccd42affca8c4367b0e7
+  - enabled: 1
+    path: Assets/Scenes/Wedding.unity
+    guid: ebbde1561d613434b8cc46afa91548d3
   - enabled: 0
     path: Assets/Scenes/Overworld.unity
     guid: 2cda990e2423bbf4892e6590ba056729
