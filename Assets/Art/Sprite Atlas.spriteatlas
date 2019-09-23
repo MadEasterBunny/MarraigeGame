@@ -42,7 +42,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 6bf6eb7ffdfb06a4a84864436419b3aa, type: 3}
-    totalSpriteSurfaceArea: 7983848
+    totalSpriteSurfaceArea: 8051653
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -78,6 +78,96 @@ SpriteAtlas:
   - {fileID: -8149712982619910479, guid: 690a4950f37f9e749a783b07722fc5e8, type: 3}
   - {fileID: 5132487031794770071, guid: 690a4950f37f9e749a783b07722fc5e8, type: 3}
   - {fileID: 5900497564458042847, guid: 690a4950f37f9e749a783b07722fc5e8, type: 3}
+  - {fileID: 6930977535896949784, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 2810887529927870688, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 8908278504493299037, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 5748054326520210624, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 651274521454098012, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 4276190636000645470, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 1531284185270308448, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -3255923476404773717, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -5837371026837641521, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 2988832434108210225, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -8898361793289483661, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 2956598836557746840, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 5707652854875688127, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 1520061541268284666, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 685499977021521432, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -1979908045634480952, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -5356682941023728937, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 1076143386564230105, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 7562443639065820881, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -2367670057459444135, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 9117333611243959156, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 6734145570009944341, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 6293087358035239703, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -3529080783998321219, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 8078559376921485546, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 484000493383129501, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 9071534619474119614, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 1410145499605229237, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -1728431593104471204, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -4374098375694066721, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 3922037394384540726, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -1924581277756648320, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -5450261034048334384, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 1242905693452960937, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -6210918294313157081, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -6966383607030964785, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -8148992149413986315, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -500563549978394874, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -4421978272304718992, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -1150798116179608207, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -2363555902770728615, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 1045585127053827230, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 5026825262009275890, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -9197663126176158211, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -3651098886318244050, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 3310638187182649855, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -2817285100874048023, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 4265238529701517103, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 6316367637468985030, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 5416470900826093690, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -7098218388526073740, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 7500627924252516957, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -5983647675598808949, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -1600726397722164795, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -4086239839647834432, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -8898509990680405775, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -72676820102756228, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -4916158618309472850, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -8066280152796626333, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 2779147067742336283, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 2898974241735840197, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 6051381181679064710, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -2469453023930567634, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -5551231609543764850, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -6277759082081827653, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 4871506456339638555, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -967738330035635599, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -6026290308487396980, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 9092646636756684963, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -7948457423386996595, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 4992897814427568773, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 1103376488155147622, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -93013614941026901, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -8453214908119698381, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -3810047909661051190, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 7436354869449086771, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 973521376034467625, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 6910349926188334046, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 6997526660067081510, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 4158768803445706675, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 5852061591073697655, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 2047486909500451624, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -3734380648070438690, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 3618156441382584481, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -7862704401945678989, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -3412162250955345731, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -2625863692670270196, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: -1101305607050724259, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 8145326812921580824, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
+  - {fileID: 2700696614694418791, guid: 049cd960fd4ba8b4bbbfd120fb772269, type: 3}
   - {fileID: 21300000, guid: 94070c80279fba1418f756f4abf8739d, type: 3}
   - {fileID: 21300000, guid: 79193890c1bcf58429ede8a61416c7a0, type: 3}
   - {fileID: -318240689857872321, guid: 190f31f0366556a4ab6295a51d845f2e, type: 3}
@@ -4000,6 +4090,10 @@ SpriteAtlas:
   - {fileID: -4557146066102032637, guid: 10ffc6bcb38085744acc3ebe50399662, type: 3}
   - {fileID: 21300000, guid: dbb860cc757bf7e4d915526365b2744b, type: 3}
   - {fileID: 21300000, guid: df1d27dc54e58fd489f149da20cb927e, type: 3}
+  - {fileID: -4501473382565931540, guid: c989b1ec641eaaa4cbc6dd3604015f6d, type: 3}
+  - {fileID: 4315981284071721638, guid: c989b1ec641eaaa4cbc6dd3604015f6d, type: 3}
+  - {fileID: 3987818255320742980, guid: c989b1ec641eaaa4cbc6dd3604015f6d, type: 3}
+  - {fileID: 4591179663728901234, guid: c989b1ec641eaaa4cbc6dd3604015f6d, type: 3}
   - {fileID: -464034680190023423, guid: 9a822e0d74a90c245a19ddfa1f798d15, type: 3}
   - {fileID: -6069640938520168933, guid: 9a822e0d74a90c245a19ddfa1f798d15, type: 3}
   - {fileID: 1999647984331235364, guid: 9a822e0d74a90c245a19ddfa1f798d15, type: 3}
@@ -4477,6 +4571,9 @@ SpriteAtlas:
   - {fileID: -3677775336180481856, guid: 6e85836eedf675341b540c5540d1f899, type: 3}
   - {fileID: -3318543589475236385, guid: 6e85836eedf675341b540c5540d1f899, type: 3}
   - {fileID: 21300000, guid: a0b058be27f59cf44a7c67351852ddf9, type: 3}
+  - {fileID: 6833308430746584297, guid: ef9939ce6fc72fd439ea47c3f7f5e997, type: 3}
+  - {fileID: -4087774893193732454, guid: ef9939ce6fc72fd439ea47c3f7f5e997, type: 3}
+  - {fileID: 4532432243929935131, guid: ef9939ce6fc72fd439ea47c3f7f5e997, type: 3}
   - {fileID: -5297443170593494471, guid: 76845c0f6c91bf64a8ba324ed5bbde70, type: 3}
   - {fileID: 9184621173262664342, guid: 76845c0f6c91bf64a8ba324ed5bbde70, type: 3}
   - {fileID: -5918961215331586755, guid: 76845c0f6c91bf64a8ba324ed5bbde70, type: 3}
@@ -4555,6 +4652,96 @@ SpriteAtlas:
   - pixel_style6_7
   - pixel_style6_4
   - pixel_style6_5
+  - Matthew and Saki WeddingFinal_21
+  - Matthew and Saki WeddingFinal_20
+  - Matthew and Saki WeddingFinal_23
+  - Matthew and Saki WeddingFinal_22
+  - Matthew and Saki WeddingFinal_54
+  - Matthew and Saki WeddingFinal_25
+  - Matthew and Saki WeddingFinal_55
+  - Matthew and Saki WeddingFinal_24
+  - Matthew and Saki WeddingFinal_56
+  - Matthew and Saki WeddingFinal_27
+  - Matthew and Saki WeddingFinal_57
+  - Matthew and Saki WeddingFinal_47
+  - Matthew and Saki WeddingFinal_26
+  - Matthew and Saki WeddingFinal_50
+  - Matthew and Saki WeddingFinal_46
+  - Matthew and Saki WeddingFinal_29
+  - Matthew and Saki WeddingFinal_51
+  - Matthew and Saki WeddingFinal_45
+  - Matthew and Saki WeddingFinal_28
+  - Matthew and Saki WeddingFinal_52
+  - Matthew and Saki WeddingFinal_44
+  - Matthew and Saki WeddingFinal_53
+  - Matthew and Saki WeddingFinal_43
+  - Matthew and Saki WeddingFinal_42
+  - Matthew and Saki WeddingFinal_78
+  - Matthew and Saki WeddingFinal_41
+  - Matthew and Saki WeddingFinal_79
+  - Matthew and Saki WeddingFinal_40
+  - Matthew and Saki WeddingFinal_58
+  - Matthew and Saki WeddingFinal_59
+  - Matthew and Saki WeddingFinal_72
+  - Matthew and Saki WeddingFinal_73
+  - Matthew and Saki WeddingFinal_70
+  - Matthew and Saki WeddingFinal_49
+  - Matthew and Saki WeddingFinal_71
+  - Matthew and Saki WeddingFinal_48
+  - Matthew and Saki WeddingFinal_76
+  - Matthew and Saki WeddingFinal_77
+  - Matthew and Saki WeddingFinal_74
+  - Matthew and Saki WeddingFinal_75
+  - Matthew and Saki WeddingFinal_83
+  - Matthew and Saki WeddingFinal_82
+  - Matthew and Saki WeddingFinal_81
+  - Matthew and Saki WeddingFinal_80
+  - Matthew and Saki WeddingFinal_87
+  - Matthew and Saki WeddingFinal_86
+  - Matthew and Saki WeddingFinal_18
+  - Matthew and Saki WeddingFinal_85
+  - Matthew and Saki WeddingFinal_19
+  - Matthew and Saki WeddingFinal_84
+  - Matthew and Saki WeddingFinal_89
+  - Matthew and Saki WeddingFinal_88
+  - Matthew and Saki WeddingFinal_10
+  - Matthew and Saki WeddingFinal_11
+  - Matthew and Saki WeddingFinal_69
+  - Matthew and Saki WeddingFinal_12
+  - Matthew and Saki WeddingFinal_68
+  - Matthew and Saki WeddingFinal_13
+  - Matthew and Saki WeddingFinal_14
+  - Matthew and Saki WeddingFinal_38
+  - Matthew and Saki WeddingFinal_15
+  - Matthew and Saki WeddingFinal_39
+  - Matthew and Saki WeddingFinal_65
+  - Matthew and Saki WeddingFinal_16
+  - Matthew and Saki WeddingFinal_36
+  - Matthew and Saki WeddingFinal_64
+  - Matthew and Saki WeddingFinal_17
+  - Matthew and Saki WeddingFinal_37
+  - Matthew and Saki WeddingFinal_67
+  - Matthew and Saki WeddingFinal_34
+  - Matthew and Saki WeddingFinal_66
+  - Matthew and Saki WeddingFinal_35
+  - Matthew and Saki WeddingFinal_61
+  - Matthew and Saki WeddingFinal_32
+  - Matthew and Saki WeddingFinal_60
+  - Matthew and Saki WeddingFinal_33
+  - Matthew and Saki WeddingFinal_63
+  - Matthew and Saki WeddingFinal_30
+  - Matthew and Saki WeddingFinal_62
+  - Matthew and Saki WeddingFinal_31
+  - Matthew and Saki WeddingFinal_9
+  - Matthew and Saki WeddingFinal_8
+  - Matthew and Saki WeddingFinal_1
+  - Matthew and Saki WeddingFinal_0
+  - Matthew and Saki WeddingFinal_3
+  - Matthew and Saki WeddingFinal_2
+  - Matthew and Saki WeddingFinal_5
+  - Matthew and Saki WeddingFinal_4
+  - Matthew and Saki WeddingFinal_7
+  - Matthew and Saki WeddingFinal_6
   - Iphone6Plus
   - US Japan map
   - Matthew_11
@@ -8477,6 +8664,10 @@ SpriteAtlas:
   - ShaneSleeping_18
   - door
   - LeftWalk
+  - gray rock_0
+  - gray rock_1
+  - gray rock_2
+  - gray rock_3
   - Inner_48
   - Inner_49
   - Inner_28
@@ -8954,6 +9145,9 @@ SpriteAtlas:
   - MatthewSittingHeadset_2
   - MatthewSittingHeadset_3
   - DownIdle
+  - shrine_2
+  - shrine_1
+  - shrine_0
   - Doggies_5
   - Doggies_2
   - Doggies_3

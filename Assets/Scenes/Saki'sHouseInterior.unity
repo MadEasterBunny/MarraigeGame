@@ -957,7 +957,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1b8994705c9db34eab649ecf310b822, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: EnglandAirplane
+  sceneToLoad: SakiStudyBeforeAbroad
   fadeInPanel: {fileID: 2538442708799837876, guid: cc8a8f3a0f5ce8c4babd8f63e37288f4,
     type: 3}
   fadeOutPanel: {fileID: 4074071282162072339, guid: d6d4c698b11660a44bb5b1cc70e85a46,
@@ -1653,6 +1653,8 @@ PlayableDirector:
     value: {fileID: 786734768}
   - key: {fileID: 2178805437764705104, guid: c6e87449acc8de24b8e67fc92b2365c2, type: 2}
     value: {fileID: 2041993622}
+  - key: {fileID: 6035827320390010850, guid: c6e87449acc8de24b8e67fc92b2365c2, type: 2}
+    value: {fileID: 1135594440}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1823002125
@@ -1920,7 +1922,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: "\u30B7\u30E3\u30FC\u30ED\u30C3\u30AF\u30DB\u30FC\u30E0\u30BA\u306E\u672C\u3001\u6614\u304B\u3089\u597D\u304D\u3060\u306A\u3002"
+  storyText: "\u82F1\u8A9E\u3001\u3082\u3063\u3068\u52C9\u5F37\u3057\u305F\u3044\u306A\u2026\u3044\u3064\u304B\u7559\u5B66\u3057\u3066\u307F\u305F\u3044\u3051\u3069\u2026\u5927\u5B66\u751F\u306E\u590F\u4F11\u307F\u304C\u6700\u5F8C\u306E\u30C1\u30E3\u30F3\u30B9\u304B\u3082\uFF01"
   description: 
   character: {fileID: 2053676520}
   portrait: {fileID: 0}
@@ -2040,7 +2042,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 3
   indentLevel: 0
-  storyText: "\u305D\u3046\u3060\uFF01\u5927\u5B66\u306E\u590F\u4F11\u307F\u306B\u30A4\u30AE\u30EA\u30B9\u306B\u884C\u3063\u3066\u307F\u3088\u3046\u304B\u306A\uFF01"
+  storyText: "\u6614\u304B\u3089\u30B7\u30E3\u30FC\u30ED\u30C3\u30AF\u30DB\u30FC\u30E0\u30BA\u304C\u597D\u304D\u3060\u304B\u3089\u3001\u30A4\u30AE\u30EA\u30B9\u306B\u884C\u3063\u3066\u307F\u3088\u3046\u304B\u306A\u2026"
   description: 
   character: {fileID: 2053676520}
   portrait: {fileID: 0}
@@ -2067,7 +2069,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: "\u884C\u304F\u306A\u3089\u3001\u3044\u3063\u3071\u3044\u82F1\u8A9E\u3092\u52C9\u5F37\u3057\u3088\u3046\uFF01"
+  storyText: "\u3088\u3057\uFF01\u305D\u308C\u306A\u3089\u3001\u3059\u3050\u306B\u30A2\u30EB\u30D0\u30A4\u30C8\u59CB\u3081\u3088\u3046\uFF01"
   description: 
   character: {fileID: 2053676520}
   portrait: {fileID: 0}

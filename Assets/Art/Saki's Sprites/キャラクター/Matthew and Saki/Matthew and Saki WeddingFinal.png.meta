@@ -1,0 +1,2272 @@
+fileFormatVersion: 2
+guid: 049cd960fd4ba8b4bbbfd120fb772269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3618156441382584481
+    second: Matthew and Saki WeddingFinal_0
+  - first:
+      213: -3734380648070438690
+    second: Matthew and Saki WeddingFinal_1
+  - first:
+      213: -3412162250955345731
+    second: Matthew and Saki WeddingFinal_2
+  - first:
+      213: -7862704401945678989
+    second: Matthew and Saki WeddingFinal_3
+  - first:
+      213: -1101305607050724259
+    second: Matthew and Saki WeddingFinal_4
+  - first:
+      213: -2625863692670270196
+    second: Matthew and Saki WeddingFinal_5
+  - first:
+      213: 2700696614694418791
+    second: Matthew and Saki WeddingFinal_6
+  - first:
+      213: 8145326812921580824
+    second: Matthew and Saki WeddingFinal_7
+  - first:
+      213: 2047486909500451624
+    second: Matthew and Saki WeddingFinal_8
+  - first:
+      213: 5852061591073697655
+    second: Matthew and Saki WeddingFinal_9
+  - first:
+      213: -5983647675598808949
+    second: Matthew and Saki WeddingFinal_10
+  - first:
+      213: -1600726397722164795
+    second: Matthew and Saki WeddingFinal_11
+  - first:
+      213: -8898509990680405775
+    second: Matthew and Saki WeddingFinal_12
+  - first:
+      213: -4916158618309472850
+    second: Matthew and Saki WeddingFinal_13
+  - first:
+      213: -8066280152796626333
+    second: Matthew and Saki WeddingFinal_14
+  - first:
+      213: 2898974241735840197
+    second: Matthew and Saki WeddingFinal_15
+  - first:
+      213: -5551231609543764850
+    second: Matthew and Saki WeddingFinal_16
+  - first:
+      213: -967738330035635599
+    second: Matthew and Saki WeddingFinal_17
+  - first:
+      213: -2817285100874048023
+    second: Matthew and Saki WeddingFinal_18
+  - first:
+      213: 6316367637468985030
+    second: Matthew and Saki WeddingFinal_19
+  - first:
+      213: 2810887529927870688
+    second: Matthew and Saki WeddingFinal_20
+  - first:
+      213: 6930977535896949784
+    second: Matthew and Saki WeddingFinal_21
+  - first:
+      213: 5748054326520210624
+    second: Matthew and Saki WeddingFinal_22
+  - first:
+      213: 8908278504493299037
+    second: Matthew and Saki WeddingFinal_23
+  - first:
+      213: -3255923476404773717
+    second: Matthew and Saki WeddingFinal_24
+  - first:
+      213: 4276190636000645470
+    second: Matthew and Saki WeddingFinal_25
+  - first:
+      213: 5707652854875688127
+    second: Matthew and Saki WeddingFinal_26
+  - first:
+      213: 2988832434108210225
+    second: Matthew and Saki WeddingFinal_27
+  - first:
+      213: 7562443639065820881
+    second: Matthew and Saki WeddingFinal_28
+  - first:
+      213: -1979908045634480952
+    second: Matthew and Saki WeddingFinal_29
+  - first:
+      213: 6910349926188334046
+    second: Matthew and Saki WeddingFinal_30
+  - first:
+      213: 4158768803445706675
+    second: Matthew and Saki WeddingFinal_31
+  - first:
+      213: -8453214908119698381
+    second: Matthew and Saki WeddingFinal_32
+  - first:
+      213: 7436354869449086771
+    second: Matthew and Saki WeddingFinal_33
+  - first:
+      213: -7948457423386996595
+    second: Matthew and Saki WeddingFinal_34
+  - first:
+      213: 1103376488155147622
+    second: Matthew and Saki WeddingFinal_35
+  - first:
+      213: -6277759082081827653
+    second: Matthew and Saki WeddingFinal_36
+  - first:
+      213: -6026290308487396980
+    second: Matthew and Saki WeddingFinal_37
+  - first:
+      213: 2779147067742336283
+    second: Matthew and Saki WeddingFinal_38
+  - first:
+      213: 6051381181679064710
+    second: Matthew and Saki WeddingFinal_39
+  - first:
+      213: 1410145499605229237
+    second: Matthew and Saki WeddingFinal_40
+  - first:
+      213: 484000493383129501
+    second: Matthew and Saki WeddingFinal_41
+  - first:
+      213: -3529080783998321219
+    second: Matthew and Saki WeddingFinal_42
+  - first:
+      213: 6293087358035239703
+    second: Matthew and Saki WeddingFinal_43
+  - first:
+      213: 9117333611243959156
+    second: Matthew and Saki WeddingFinal_44
+  - first:
+      213: 1076143386564230105
+    second: Matthew and Saki WeddingFinal_45
+  - first:
+      213: 685499977021521432
+    second: Matthew and Saki WeddingFinal_46
+  - first:
+      213: 2956598836557746840
+    second: Matthew and Saki WeddingFinal_47
+  - first:
+      213: -6966383607030964785
+    second: Matthew and Saki WeddingFinal_48
+  - first:
+      213: 1242905693452960937
+    second: Matthew and Saki WeddingFinal_49
+  - first:
+      213: 1520061541268284666
+    second: Matthew and Saki WeddingFinal_50
+  - first:
+      213: -5356682941023728937
+    second: Matthew and Saki WeddingFinal_51
+  - first:
+      213: -2367670057459444135
+    second: Matthew and Saki WeddingFinal_52
+  - first:
+      213: 6734145570009944341
+    second: Matthew and Saki WeddingFinal_53
+  - first:
+      213: 651274521454098012
+    second: Matthew and Saki WeddingFinal_54
+  - first:
+      213: 1531284185270308448
+    second: Matthew and Saki WeddingFinal_55
+  - first:
+      213: -5837371026837641521
+    second: Matthew and Saki WeddingFinal_56
+  - first:
+      213: -8898361793289483661
+    second: Matthew and Saki WeddingFinal_57
+  - first:
+      213: -1728431593104471204
+    second: Matthew and Saki WeddingFinal_58
+  - first:
+      213: -4374098375694066721
+    second: Matthew and Saki WeddingFinal_59
+  - first:
+      213: -3810047909661051190
+    second: Matthew and Saki WeddingFinal_60
+  - first:
+      213: -93013614941026901
+    second: Matthew and Saki WeddingFinal_61
+  - first:
+      213: 6997526660067081510
+    second: Matthew and Saki WeddingFinal_62
+  - first:
+      213: 973521376034467625
+    second: Matthew and Saki WeddingFinal_63
+  - first:
+      213: 4871506456339638555
+    second: Matthew and Saki WeddingFinal_64
+  - first:
+      213: -2469453023930567634
+    second: Matthew and Saki WeddingFinal_65
+  - first:
+      213: 4992897814427568773
+    second: Matthew and Saki WeddingFinal_66
+  - first:
+      213: 9092646636756684963
+    second: Matthew and Saki WeddingFinal_67
+  - first:
+      213: -72676820102756228
+    second: Matthew and Saki WeddingFinal_68
+  - first:
+      213: -4086239839647834432
+    second: Matthew and Saki WeddingFinal_69
+  - first:
+      213: -5450261034048334384
+    second: Matthew and Saki WeddingFinal_70
+  - first:
+      213: -6210918294313157081
+    second: Matthew and Saki WeddingFinal_71
+  - first:
+      213: 3922037394384540726
+    second: Matthew and Saki WeddingFinal_72
+  - first:
+      213: -1924581277756648320
+    second: Matthew and Saki WeddingFinal_73
+  - first:
+      213: -4421978272304718992
+    second: Matthew and Saki WeddingFinal_74
+  - first:
+      213: -1150798116179608207
+    second: Matthew and Saki WeddingFinal_75
+  - first:
+      213: -8148992149413986315
+    second: Matthew and Saki WeddingFinal_76
+  - first:
+      213: -500563549978394874
+    second: Matthew and Saki WeddingFinal_77
+  - first:
+      213: 8078559376921485546
+    second: Matthew and Saki WeddingFinal_78
+  - first:
+      213: 9071534619474119614
+    second: Matthew and Saki WeddingFinal_79
+  - first:
+      213: -9197663126176158211
+    second: Matthew and Saki WeddingFinal_80
+  - first:
+      213: 5026825262009275890
+    second: Matthew and Saki WeddingFinal_81
+  - first:
+      213: 1045585127053827230
+    second: Matthew and Saki WeddingFinal_82
+  - first:
+      213: -2363555902770728615
+    second: Matthew and Saki WeddingFinal_83
+  - first:
+      213: 5416470900826093690
+    second: Matthew and Saki WeddingFinal_84
+  - first:
+      213: 4265238529701517103
+    second: Matthew and Saki WeddingFinal_85
+  - first:
+      213: 3310638187182649855
+    second: Matthew and Saki WeddingFinal_86
+  - first:
+      213: -3651098886318244050
+    second: Matthew and Saki WeddingFinal_87
+  - first:
+      213: 7500627924252516957
+    second: Matthew and Saki WeddingFinal_88
+  - first:
+      213: -7098218388526073740
+    second: Matthew and Saki WeddingFinal_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c7b327e7b0994eaa5961ff2b35387
+      internalID: 3618156441382584481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402febabb1c4994c8cecf9c9d3843d8
+      internalID: -3734380648070438690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6bd0c1be006134d8cddf90d7bf925b
+      internalID: -3412162250955345731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfef45fedd585649bf8392fbab775e5
+      internalID: -7862704401945678989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 223
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e00167de4bae0741947e6e16609978b
+      internalID: -1101305607050724259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902e6ae8ede34c47a7d71f159bdfbcc
+      internalID: -2625863692670270196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a4854e873f0c49989d7875b391f3a
+      internalID: 2700696614694418791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4446370c6d2b3c408ed7b25f21df1a0
+      internalID: 8145326812921580824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff2bc5f1c74484aa5d606a9250df38
+      internalID: 2047486909500451624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 223
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663a19a588ae5c44a106a035213e23c
+      internalID: 5852061591073697655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 223
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f35bf4c4e8e4b74fab8aad848f80f6d
+      internalID: -5983647675598808949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 223
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a745a2a655a344939cc1344cd0520
+      internalID: -1600726397722164795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee988162f33cf439a054a36ea16727
+      internalID: -8898509990680405775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c885e893c1064f89f13c5bef0f7c3
+      internalID: -4916158618309472850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee05962b61f92ab4a9427a3105d5a5a6
+      internalID: -8066280152796626333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5208ed2037f6c104695ddeb00d095b12
+      internalID: 2898974241735840197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 191
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e36d1ef833f514d833f6a145903d2c
+      internalID: -5551231609543764850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b34f41526f3645962c9c8b5a6f8e8
+      internalID: -967738330035635599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3163390e458193b4bad19de3c40c76ff
+      internalID: -2817285100874048023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d46faaf33787e64a931ec682b43ce25
+      internalID: 6316367637468985030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af48a585661b1304e9b17134e307d792
+      internalID: 2810887529927870688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 192
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0305693c7eaffd4b87ca3020d808f3f
+      internalID: 6930977535896949784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 191
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9907ebd95576d2c43afaf20630583e20
+      internalID: 5748054326520210624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 192
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609aa48afc028574698daf123d0951fb
+      internalID: 8908278504493299037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48abe454c04396d478df77e487112d80
+      internalID: -3255923476404773717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3acb66023fc14891eb608b72ccb60
+      internalID: 4276190636000645470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793017e31a90b6a449faa21cb68d9397
+      internalID: 5707652854875688127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3fe2d3d90f4e44b68b7b24742dcc7
+      internalID: 2988832434108210225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d5f53316a024478bd25cd43a23f5c
+      internalID: 7562443639065820881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c4f9d4a5376b41a17819bf289d653
+      internalID: -1979908045634480952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576acd6f9a531041b726bb0fdd69f8a
+      internalID: 6910349926188334046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf7549ecbf4b7344a8cbc34770ad9ac
+      internalID: 4158768803445706675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af06089945414f044b3aede342724b6b
+      internalID: -8453214908119698381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 159
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0375c0269939b4bb4890ed18199aaa
+      internalID: 7436354869449086771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 159
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543adb6c46edfa4e9693e8593aa38a8
+      internalID: -7948457423386996595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 159
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab98e8a4333a54d90a997429e489f9
+      internalID: 1103376488155147622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6af455606844e54789be804ea2ea258
+      internalID: -6277759082081827653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d0fd9e4e519449bbd91fb82ef9272
+      internalID: -6026290308487396980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a32b315fce0494fa30405f1553b7b9
+      internalID: 2779147067742336283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9510037e109ac34e9c88466c31fde73
+      internalID: 6051381181679064710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 127
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee85b55c073806e499871168584d7e63
+      internalID: 1410145499605229237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f64baaeeb246634287301f6fdd27857
+      internalID: 484000493383129501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe31e29adcd3b448b5fb07e91fd5a8
+      internalID: -3529080783998321219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707e6716f1488d4db06d6f65da6b3e3
+      internalID: 6293087358035239703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb54c359e8ec05940a73849829c8579a
+      internalID: 9117333611243959156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c268e4e433fb04c8c122d1847d798e
+      internalID: 1076143386564230105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 127
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a78d6dcfc40a4429e265b2b8f95c4a
+      internalID: 685499977021521432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64ea058f1637848a649de11247ff8d
+      internalID: 2956598836557746840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb1917e73552649a968ab1a74f1134
+      internalID: -6966383607030964785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270cbd2c2b4ee774f92592aba2d1ec36
+      internalID: 1242905693452960937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 97
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b751afde79084a840109b8a7f3010
+      internalID: 1520061541268284666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2ca7ea5345914ebca0c1a8dfc17d2
+      internalID: -5356682941023728937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 97
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fab5e69897bba4cb72632dcc534106
+      internalID: -2367670057459444135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 97
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e42981da2988b49b99c60334f80be3
+      internalID: 6734145570009944341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_54
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 97
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb68fc69b342db645af549cdb78ff3c5
+      internalID: 651274521454098012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 98
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103a744fba77f64b8c93535258d6e9e
+      internalID: 1531284185270308448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 97
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b01ced12ad551444a0eac2197f3085e
+      internalID: -5837371026837641521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 97
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d6012eaf9ac147872ad9c420b845a
+      internalID: -8898361793289483661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 98
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d962462fd0909cc42aead098ddc1f877
+      internalID: -1728431593104471204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267834526a098b24188ac50d1b9dabf8
+      internalID: -4374098375694066721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815163fe01450b94f8104961cce845f5
+      internalID: -3810047909661051190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 66
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f9dc1eda218f74a8af728c331e2511
+      internalID: -93013614941026901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01109b59300aeea4eb619b7c282a7dfb
+      internalID: 6997526660067081510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c837188813f0704dab925e78d1c0a8c
+      internalID: 973521376034467625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c3d9ceea43504a8aecaa736703f0a
+      internalID: 4871506456339638555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 68
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb18121309552248a646f9e37aec1f8
+      internalID: -2469453023930567634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40cad3c130c6441b92c162fecb9f2f
+      internalID: 4992897814427568773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 68
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001773afdf7285b4ab19305a674bf376
+      internalID: 9092646636756684963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 68
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3435f8e847c748f49a37430e858dc224
+      internalID: -72676820102756228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 68
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769f511f061ecd479e916bf10101315
+      internalID: -4086239839647834432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 68
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbd29dc7e1ffa44870d7fd7fe2027c
+      internalID: -5450261034048334384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d42d671cf440c429cb66cc4e7ea1cf
+      internalID: -6210918294313157081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda413fdcbb33e645813ddf8e9114173
+      internalID: 3922037394384540726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535907b82a8c834abab970e8ab768d7
+      internalID: -1924581277756648320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d2528995f3b6b4a8b0834d38059144
+      internalID: -4421978272304718992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3f4ed19477b94aa0677100e2338a5
+      internalID: -1150798116179608207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 39
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20caa2b75455f45b2bebb3d9eac78f
+      internalID: -8148992149413986315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4060d9c59bc56a49bb686cdb85f2762
+      internalID: -500563549978394874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_78
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 38
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5dd32eaa2dcab42bfe6bc5a20e3c5a
+      internalID: 8078559376921485546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 38
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3d4e7b65733114b95902cad945fa61
+      internalID: 9071534619474119614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869573a24c0d624fb6f62f1dfec6ea8
+      internalID: -9197663126176158211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_81
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 38
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a21950f3fde434d99c19bbc93b513f
+      internalID: 5026825262009275890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 38
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59752cc0110c4034a86ee8bcc1893041
+      internalID: 1045585127053827230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 38
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c841e2daf3b37b84a9db25daed692888
+      internalID: -2363555902770728615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_84
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bcc203b007ba4428b023b0cc1c6080
+      internalID: 5416470900826093690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634225d46556ed94eababaab618c0e88
+      internalID: 4265238529701517103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_86
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c0bdee452e0ff4f96116f83da05f6e
+      internalID: 3310638187182649855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_87
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b91c1a1ab37d3a459681e1c66582bf1
+      internalID: -3651098886318244050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_88
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a161b7dad62274093365b8233701cd
+      internalID: 7500627924252516957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Matthew and Saki WeddingFinal_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e340e27890d3613448d1f0b7989b91e8
+      internalID: -7098218388526073740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2ab39acdb6c250a458c4a4faed8bcf55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
