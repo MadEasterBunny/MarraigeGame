@@ -382,8 +382,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   subtitlePanel: {fileID: 406640147}
   subtitles:
-  - "\u304A\u306A\u3089\u3057\u305F\u3070\u304B\u308A\uFF01"
-  - "\u4FFA\u3082\uFF01"
+  - "\u30A6\u30A4\u30B9\uFF01"
+  - "\u30A6\u30A4\u30B9\uFF01"
   - "\u5927\u5B66\u306B\u5165\u308A\u305F\u3044\u3051\u3069\u3001\u4F55\u3092\u52C9\u5F37\u3059\u308B\u304B\u60A9\u3093\u3067\u3044\u308B\u2026"
   - "\u65E5\u672C\u8A9E\u306F\uFF1F"
   - "\u3042\u3063\uFF01\u305D\u3046\u3059\u308B\u3088\uFF01"
@@ -3580,7 +3580,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 2072682707}
   selectedCommands:
-  - {fileID: 2072682720}
+  - {fileID: 2072682716}
   variables: []
   description: 
   stepPause: 0
@@ -3669,7 +3669,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: I did too!
+  storyText: Not much, you?
   description: 
   character: {fileID: 1074880348}
   portrait: {fileID: 0}
@@ -3758,7 +3758,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: I just farted!
+  storyText: Hey, what's up?
   description: 
   character: {fileID: 43698371}
   portrait: {fileID: 0}
@@ -3845,7 +3845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 10
   indentLevel: 0
-  storyText: Ooh yeah, bb!
+  storyText: Oh yeah!
   description: 
   character: {fileID: 1074880348}
   portrait: {fileID: 0}
@@ -3926,7 +3926,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: I want to go back to school, but I don't know what to study...
+  storyText: Well, I want to go back to school, but I don't know what to study...
   description: 
   character: {fileID: 43698371}
   portrait: {fileID: 0}

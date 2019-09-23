@@ -652,6 +652,7 @@
     <Compile Include="Assets\Scripts\Objects\Transitions\TimelineSceneTransition.cs" />
     <Compile Include="Assets\Scripts\Objects\TreasureChest.cs" />
     <Compile Include="Assets\Scripts\Other\CoinTextManager.cs" />
+    <Compile Include="Assets\Scripts\Other\DestroyObject.cs" />
     <Compile Include="Assets\Scripts\Other\EnableFlowchart.cs" />
     <Compile Include="Assets\Scripts\Other\KnockBack.cs" />
     <Compile Include="Assets\Scripts\Other\MoveLeft.cs" />

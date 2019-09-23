@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/AfterStudyAbroadSaki.unity
+- path: Assets/Scenes/Saki'sHouseInterior2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

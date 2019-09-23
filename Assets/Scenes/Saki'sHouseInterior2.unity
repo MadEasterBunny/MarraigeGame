@@ -627,7 +627,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 645847507}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &404841394
 MonoBehaviour:
@@ -1024,10 +1024,55 @@ Transform:
   - {fileID: 2092427845}
   - {fileID: 724395519}
   - {fileID: 831194763}
-  - {fileID: 404841393}
   - {fileID: 706997375}
+  - {fileID: 404841393}
   m_Father: {fileID: 0}
   m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &665941325
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 665941327}
+  - component: {fileID: 665941326}
+  m_Layer: 0
+  m_Name: Set Active Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &665941326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 665941325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14d47e1972f7bca40a76728b7e4af264, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setActiveObject: {fileID: 2092427844}
+  setActiveObject2: {fileID: 1135594440}
+--- !u!4 &665941327
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 665941325}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.47877228, y: -1.0452386, z: -2.3105469}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &688656779
 GameObject:
@@ -1120,7 +1165,7 @@ GameObject:
   - component: {fileID: 706997375}
   - component: {fileID: 706997376}
   m_Layer: 0
-  m_Name: Naration
+  m_Name: Narration
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1138,7 +1183,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 645847507}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &706997376
 MonoBehaviour:
@@ -1152,7 +1197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: Narator
+  nameText: Narrator
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits: []
@@ -2859,7 +2904,6 @@ GameObject:
   - component: {fileID: 2092427847}
   - component: {fileID: 2092427846}
   - component: {fileID: 2092427862}
-  - component: {fileID: 2092427863}
   - component: {fileID: 2092427864}
   - component: {fileID: 2092427867}
   - component: {fileID: 2092427866}
@@ -2869,15 +2913,16 @@ GameObject:
   - component: {fileID: 2092427872}
   - component: {fileID: 2092427871}
   - component: {fileID: 2092427870}
-  - component: {fileID: 2092427859}
   - component: {fileID: 2092427873}
+  - component: {fileID: 2092427859}
+  - component: {fileID: 2092427863}
   m_Layer: 0
   m_Name: Saki and Mako Flowchart
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2092427845
 Transform:
   m_ObjectHideFlags: 0
@@ -3216,8 +3261,7 @@ MonoBehaviour:
   storyText: "\u65E9\u7D00\u3061\u3083\u3093\u3001\u4E45\u3057\u3076\u308A\uFF01"
   description: 
   character: {fileID: 831194764}
-  portrait: {fileID: -6039934168830662524, guid: bf2cadcacad03244d835dd3d47a3fb1d,
-    type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3267,11 +3311,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2092427844}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
+  m_Script: {fileID: 11500000, guid: 8ff5d850a887844fe87ae7d366d3ab5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   parentBlock: {fileID: 2092427860}
-  waitForFrames: 1
 --- !u!114 &2092427860
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3335,10 +3378,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 392.7764, y: -14.059164}
+  scrollPos: {x: 541, y: 52.5}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 727
+  blockViewHeight: 618
   zoom: 1
   scrollViewRect:
     serializedVersion: 2
@@ -3348,7 +3391,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 2092427860}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 2092427867}
   variables: []
   description: 
   stepPause: 0
@@ -3389,23 +3433,25 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2092427863
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092427844}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Script: {fileID: 11500000, guid: d81be3d7e84da460788dccea95a3313a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 15
+  itemId: 26
   indentLevel: 0
-  _sceneName:
-    stringRef: {fileID: 0}
-    stringVal: Saki'sStory2
-  loadingImage: {fileID: 0}
-  sceneNameOLD: 
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  destroyInXSeconds:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  targetGameObjectOLD: {fileID: 0}
 --- !u!114 &2092427864
 MonoBehaviour:
   m_ObjectHideFlags: 2

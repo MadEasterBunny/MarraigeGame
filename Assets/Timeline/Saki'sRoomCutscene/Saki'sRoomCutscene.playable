@@ -25,7 +25,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 5210637217416425873}
-    m_Duration: 10.033333333333333
+    m_Duration: 7.583333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -8619625306711898135}
     m_EaseInDuration: 0
@@ -91,10 +91,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: SakiReading
   - m_Version: 1
-    m_Start: 10.033333333333333
+    m_Start: 7.583333333333333
     m_ClipIn: 0
     m_Asset: {fileID: -8381768008732001257}
-    m_Duration: 29.866668224334717
+    m_Duration: 7.366667050868272
     m_TimeScale: 1
     m_ParentTrack: {fileID: -8619625306711898135}
     m_EaseInDuration: 0
@@ -273,10 +273,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 15.016666666666667
+    m_Start: 7.466666531066101
     m_ClipIn: 0
     m_Asset: {fileID: -3646273347491549018}
-    m_Duration: 8.000000417232517
+    m_Duration: 7.483333853135504
     m_TimeScale: 1
     m_ParentTrack: {fileID: -3430228215353225047}
     m_EaseInDuration: 0
@@ -488,7 +488,7 @@ MonoBehaviour:
     m_Start: 5.0166666666666675
     m_ClipIn: 0
     m_Asset: {fileID: 7235850395964559877}
-    m_Duration: 85.28333333333333
+    m_Duration: 9.933333717534937
     m_TimeScale: 1
     m_ParentTrack: {fileID: 2178805437764705104}
     m_EaseInDuration: 0
@@ -623,7 +623,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 39.95
+    m_Start: 14.950000384201605
     m_ClipIn: 0
     m_Asset: {fileID: 9144641787747627515}
     m_Duration: 5
