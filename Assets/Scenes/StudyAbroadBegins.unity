@@ -509,7 +509,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   advStory: {fileID: 1061751388}
   waitTime: 2
-  sceneToLoad: Airport
+  sceneToLoad: Airplane
 --- !u!1 &1477221811
 GameObject:
   m_ObjectHideFlags: 0

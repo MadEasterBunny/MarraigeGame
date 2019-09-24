@@ -10,7 +10,7 @@ public class Subtitles : MonoBehaviour
     public Text text;
     public int currentLine = 0;
 
-    private void Start()
+    private void Awake()
     {
         currentLine = 0;
     }
