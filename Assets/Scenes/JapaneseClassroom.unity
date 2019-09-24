@@ -1452,8 +1452,8 @@ MonoBehaviour:
     type: 3}
   waitTime: 0.35
   audioController: {fileID: 1161831510}
-  startSceneTransition: 15
-  startMusicFade: 13
+  startSceneTransition: 13
+  startMusicFade: 5
 --- !u!4 &1426702990
 Transform:
   m_ObjectHideFlags: 0

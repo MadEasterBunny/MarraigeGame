@@ -3329,8 +3329,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 69
-    y: 73
+    x: 70
+    y: 75
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -3392,7 +3392,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 2092427860}
   selectedCommands:
-  - {fileID: 2092427867}
+  - {fileID: 2092427872}
   variables: []
   description: 
   stepPause: 0
@@ -3433,24 +3433,24 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &2092427863
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092427844}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d81be3d7e84da460788dccea95a3313a, type: 3}
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   itemId: 26
   indentLevel: 0
   _targetGameObject:
     gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 0}
-  destroyInXSeconds:
-    floatRef: {fileID: 0}
-    floatVal: 0
+    gameObjectVal: {fileID: 2092427844}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &2092427864
 MonoBehaviour:

@@ -23,7 +23,7 @@ public class SetActiveController : MonoBehaviour
 
         if(Input.GetKeyDown(KeyCode.R))
         {
-            setActiveObject.SetActive(false);
+            //setActiveObject.SetActive(false);
             setActiveObject2.SetActive(true);
         }
     }

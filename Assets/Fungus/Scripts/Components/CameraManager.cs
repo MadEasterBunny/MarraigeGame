@@ -85,7 +85,7 @@ namespace Fungus
                 // 0 = scene fully obscured
                 GUI.color = new Color(1,1,1, fadeAlpha);    
                 GUI.depth = -1000;
-                GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), screenFadeTexture);
+                //GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), screenFadeTexture);
             }
         }
 

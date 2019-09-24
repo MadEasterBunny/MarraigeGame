@@ -10,6 +10,11 @@ public class Subtitles : MonoBehaviour
     public Text text;
     public int currentLine = 0;
 
+    private void Start()
+    {
+        currentLine = 0;
+    }
+
     void Update()
     {
         ShowSubtitles();
