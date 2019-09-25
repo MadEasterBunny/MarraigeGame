@@ -20,7 +20,7 @@ public class EnableFlowchart : MonoBehaviour
             flowChart.SetActive(true);
         }
 
-        if(Input.GetKeyDown(KeyCode.T))
+        if(Input.GetKeyDown(KeyCode.W))
         {
             sceneChange.SetActive(true);
         }
