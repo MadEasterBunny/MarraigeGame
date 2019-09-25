@@ -1950,7 +1950,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 69
-    y: 72
+    y: 73
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -1989,8 +1989,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 2041993624}
-  selectedCommands:
-  - {fileID: 2041993629}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0

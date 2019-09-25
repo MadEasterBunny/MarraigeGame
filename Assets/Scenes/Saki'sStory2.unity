@@ -203,49 +203,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &522342616
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 522342618}
-  - component: {fileID: 522342617}
-  m_Layer: 0
-  m_Name: Destroy Object
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &522342617
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 522342616}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56d33104382a65e479e5da546f2d2168, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &522342618
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 522342616}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.4648788, y: 7.126953, z: -4.452034}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &857601021
 GameObject:
   m_ObjectHideFlags: 0
@@ -447,7 +404,7 @@ MonoBehaviour:
   subtitles: {fileID: 1477221811}
   storyText:
   - "\u305D\u308C\u304B\u3089\u3001\u4E00\u304B\u6708\u2026"
-  - "\u30A2\u30E1\u30EA\u30AB\u4EBA\u306E\u7537\u306E\u5B50\u304B\u3089\u30E1\u30C3\u30BB\u30FC\u30B8\u304C\u6765\u307E\u3057\u305F\u3002"
+  - "\u30A2\u30E1\u30EA\u30AB\u4EBA\u306E\u7537\u306E\u5B50\u304B\u3089\n\u30E1\u30C3\u30BB\u30FC\u30B8\u304C\u6765\u307E\u3057\u305F\u3002"
   - "\u305D\u306E\u4EBA\u304C\u30DE\u30B7\u30E5\u30FC\u3067\u3057\u305F\uFF01"
   subtitleText:
   - One month later...
