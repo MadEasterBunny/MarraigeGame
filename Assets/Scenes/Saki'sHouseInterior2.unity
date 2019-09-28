@@ -413,6 +413,7 @@ GameObject:
   - component: {fileID: 398355642}
   - component: {fileID: 398355641}
   - component: {fileID: 398355640}
+  - component: {fileID: 398355643}
   m_Layer: 0
   m_Name: Saki
   m_TagString: Saki
@@ -596,6 +597,18 @@ Rigidbody2D:
   m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &398355643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398355635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503971f987a5e50499d72621c0690162, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &404841392
 GameObject:
   m_ObjectHideFlags: 0
@@ -909,7 +922,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 00bbfcd760d7c8749893a380d8484312, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.8
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1198,7 +1211,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Narrator
-  nameColor: {r: 0, g: 0, b: 0, a: 1}
+  nameColor: {r: 1, g: 0.3161993, b: 0.06132078, a: 1}
   soundEffect: {fileID: 0}
   portraits: []
   portraitsFace: 0
@@ -3081,7 +3094,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  storyText: "\u305D\u308C\u304C\u306D\u3001\u65E5\u672C\u3067\u65E5\u672C\u3060\u3068\u4E2D\u3005\u82F1\u8A9E\u3092\u8A71\u3059\u6A5F\u4F1A\u304C\u306A\u304F\u3066\u3002\u3002\u3002"
+  storyText: "\u305D\u308C\u304C\u306D\u3001\u65E5\u672C\u3060\u3068\u4E2D\u3005\u82F1\u8A9E\u3092\u8A71\u3059\u6A5F\u4F1A\u304C\u306A\u304F\u3066\u3002\u3002\u3002"
   description: 
   character: {fileID: 724395520}
   portrait: {fileID: 0}
@@ -3216,7 +3229,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 0
-  storyText: "\u3067\u3082\u3001\u4E00\u304B\u6708\u3060\u3051\u306A\u3089\u4E2D\u3005\u82F1\u8A9E\u304C\u8EAB\u306B\u3064\u304B\u306A\u3044\u306A\u3002\u3002\u3002"
+  storyText: "\u3067\u3082\u30011\u304B\u6708\u3060\u3051\u306A\u3089\u4E2D\u3005\u82F1\u8A9E\u304C\u8EAB\u306B\u3064\u304B\u306A\u3044\u306A\u3002\u3002\u3002"
   description: 
   character: {fileID: 724395520}
   portrait: {fileID: 0}
@@ -3400,7 +3413,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 70
-    y: 75
+    y: 76
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -3446,7 +3459,7 @@ MonoBehaviour:
   scrollPos: {x: 541, y: 52.5}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 618
+  blockViewHeight: 628
   zoom: 1
   scrollViewRect:
     serializedVersion: 2
@@ -3457,7 +3470,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 2092427860}
   selectedCommands:
-  - {fileID: 2092427865}
+  - {fileID: 2092427866}
   variables: []
   description: 
   stepPause: 0
@@ -3510,7 +3523,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: "\u7DCA\u5F35\u3057\u306A\u304C\u3089\u3001\u4E16\u754C\u4E2D\u3067\u6587\u901A\u53CB\u9054\u3092\u4F5C\u308C\u308B\u30A2\u30D7\u30EA\u3092\u6559\u3048\u3066\u3082\u3089\u3044\u3001\n\u59CB\u3081\u3066\u307F\u307E\u3057\u305F\u3002"
+  storyText: "{color=red}\u7DCA\u5F35\u3057\u306A\u304C\u3089\u3001\u4E16\u754C\u4E2D\u3067\u6587\u901A\u53CB\u9054\u3092\u4F5C\u308C\u308B\u30A2\u30D7\u30EA\u3092\u6559\u3048\u3066\u3082\u3089\u3044\u3001\n\u59CB\u3081\u3066\u307F\u307E\u3057\u305F\u3002"
   description: 
   character: {fileID: 706997376}
   portrait: {fileID: 0}
@@ -3564,7 +3577,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: "\u305D\u3093\u306A\u6642\u3001\u3061\u3087\u3046\u3069\u3001\u30A4\u30AE\u30EA\u30B9\u3067\u4EF2\u826F\u304F\u306A\u3063\u305F\u53CB\u9054\u304B\u3089\u9023\u7D61\u304C\u3042\u308A\u307E\u3057\u305F"
+  storyText: "{color=red}\u305D\u3093\u306A\u6642\u3001\u3061\u3087\u3046\u3069\u3001\u30A4\u30AE\u30EA\u30B9\u3067\u4EF2\u826F\u304F\u306A\u3063\u305F\u53CB\u9054\u304B\u3089\u9023\u7D61\u304C\u3042\u308A\u307E\u3057\u305F"
   description: 
   character: {fileID: 706997376}
   portrait: {fileID: 0}

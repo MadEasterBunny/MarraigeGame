@@ -618,6 +618,7 @@
     <Compile Include="Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\Camera\ColorChange.cs" />
+    <Compile Include="Assets\Scripts\Controller\AnimationController.cs" />
     <Compile Include="Assets\Scripts\Controller\SetActiveController.cs" />
     <Compile Include="Assets\Scripts\Dialogue Unused\DialogueDisplay.cs" />
     <Compile Include="Assets\Scripts\Dialogue Unused\DialogueSetup.cs" />

@@ -403,13 +403,13 @@ MonoBehaviour:
   subtitlesText: {fileID: 1477221812}
   subtitles: {fileID: 1477221811}
   storyText:
-  - "\u305D\u308C\u304B\u3089\u3001\u4E00\u304B\u6708\u2026"
+  - "\u305D\u308C\u304B\u3089\u30011\u304B\u6708\u2026"
   - "\u30A2\u30E1\u30EA\u30AB\u4EBA\u306E\u7537\u306E\u5B50\u304B\u3089\n\u30E1\u30C3\u30BB\u30FC\u30B8\u304C\u6765\u307E\u3057\u305F\u3002"
-  - "\u305D\u306E\u4EBA\u304C\u30DE\u30B7\u30E5\u30FC\u3067\u3057\u305F\uFF01"
+  - "\u305D\u306E\u4EBA\u306F\u2026\uFF1F"
   subtitleText:
   - One month later...
   - Saki received a message from an American boy.
-  - That person was Matthew!
+  - That person was...?
   advanceStory: 0
   fadingTime: 3
   waitTime: 5

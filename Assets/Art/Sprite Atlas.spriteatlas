@@ -42,7 +42,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 6bf6eb7ffdfb06a4a84864436419b3aa, type: 3}
-    totalSpriteSurfaceArea: 8051653
+    totalSpriteSurfaceArea: 8090822
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -214,6 +214,99 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 0536087205987c24887aa5f69cc80aa0, type: 3}
   - {fileID: 21300000, guid: 2d18de82a4b9b1447a42d6be42269649, type: 3}
   - {fileID: 21300000, guid: a7ee4bb2fc1ad36498a7c8badadc010f, type: 3}
+  - {fileID: 3295190603343466056, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -7702968172992826873, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -7545364154297870389, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -1467526334044976919, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -6026363946683523677, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -8597241791947483046, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 457518817487422120, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -5517334222889170277, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -7681101562826344795, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -2274385048002497028, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -953890209940993106, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 6681236622914346833, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -5756936423798847241, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 433120149462428121, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 4270121924814241573, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 491325331029270121, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -5229511149445554929, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 4360414330802208387, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -6398794036820197515, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 485387465578141802, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -8315714377645359109, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 116058509013614727, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -6867753415069487583, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -1576853560964928112, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 1829447874587497273, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -685268859846623622, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -4242976450896273018, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -1854081156887468440, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -4409020000508285198, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 3641389031496510479, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -2181113472791491754, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 1091097581603452252, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 4416965895229832222, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -1255947875220247875, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 4596249320484372128, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8572248531908386222, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -3976217799691578021, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 3668185444822322435, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -2345392383896989802, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 5308973286139838290, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 1297868747720763754, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -5070728525203124360, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8399265611031478805, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -50966993724956927, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 5525542244827697301, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8330886789065036153, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -1244594780846790513, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 590558983009405908, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 3783402299745693952, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 4524016519991164908, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 5441874062809528782, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8237706499138441205, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -4286689504119012901, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 6936832241355291947, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 6638680360403662556, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -1047951007030062391, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 5668183116570002831, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -5493648475611087836, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 2818214220244179850, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -7207975910956051576, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 5012689314630815807, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 3856614604203214265, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 6999958756928653001, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8027862882784080031, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -6865345173751504655, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -4558310678188403682, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 3214873123234754026, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -3429224626223882656, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 6533139549413673425, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -6792933770471211621, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -8305356188746653785, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 6387823582932011037, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -4938449696360948938, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -2315919319207111770, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 3707875431771175169, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8925682149573677707, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 1899943269751095281, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8388287512408551363, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 3916964374734664448, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 6061237029408545854, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -2032298192187904132, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 4289773594779498763, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -4533502556612505583, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 9047236060676371864, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 4771752629143486365, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 2425118002326191057, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 161174039346045022, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -5583358430482908709, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 764476064762761463, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 5334514458758394315, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 8468507041455624778, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: -6268661493926158572, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
+  - {fileID: 7464670450259965613, guid: a80c3b138720c09419230c5c4fe15526, type: 3}
   - {fileID: -7074133672870789545, guid: 9f5c633338486ef45a56858549521fc4, type: 3}
   - {fileID: 9111781805392673324, guid: 9f5c633338486ef45a56858549521fc4, type: 3}
   - {fileID: -563424934234159417, guid: 9f5c633338486ef45a56858549521fc4, type: 3}
@@ -4788,6 +4881,99 @@ SpriteAtlas:
   - LeftIdle
   - Air plane
   - Lisa,Steve and Shane
+  - Matthew and Saki Wedding Final02_1
+  - Matthew and Saki Wedding Final02_0
+  - Matthew and Saki Wedding Final02_92
+  - Matthew and Saki Wedding Final02_90
+  - Matthew and Saki Wedding Final02_34
+  - Matthew and Saki Wedding Final02_91
+  - Matthew and Saki Wedding Final02_85
+  - Matthew and Saki Wedding Final02_35
+  - Matthew and Saki Wedding Final02_84
+  - Matthew and Saki Wedding Final02_36
+  - Matthew and Saki Wedding Final02_87
+  - Matthew and Saki Wedding Final02_37
+  - Matthew and Saki Wedding Final02_27
+  - Matthew and Saki Wedding Final02_86
+  - Matthew and Saki Wedding Final02_78
+  - Matthew and Saki Wedding Final02_30
+  - Matthew and Saki Wedding Final02_26
+  - Matthew and Saki Wedding Final02_81
+  - Matthew and Saki Wedding Final02_79
+  - Matthew and Saki Wedding Final02_31
+  - Matthew and Saki Wedding Final02_25
+  - Matthew and Saki Wedding Final02_80
+  - Matthew and Saki Wedding Final02_32
+  - Matthew and Saki Wedding Final02_24
+  - Matthew and Saki Wedding Final02_83
+  - Matthew and Saki Wedding Final02_33
+  - Matthew and Saki Wedding Final02_23
+  - Matthew and Saki Wedding Final02_82
+  - Matthew and Saki Wedding Final02_22
+  - Matthew and Saki Wedding Final02_18
+  - Matthew and Saki Wedding Final02_21
+  - Matthew and Saki Wedding Final02_19
+  - Matthew and Saki Wedding Final02_20
+  - Matthew and Saki Wedding Final02_70
+  - Matthew and Saki Wedding Final02_38
+  - Matthew and Saki Wedding Final02_89
+  - Matthew and Saki Wedding Final02_71
+  - Matthew and Saki Wedding Final02_39
+  - Matthew and Saki Wedding Final02_88
+  - Matthew and Saki Wedding Final02_72
+  - Matthew and Saki Wedding Final02_12
+  - Matthew and Saki Wedding Final02_73
+  - Matthew and Saki Wedding Final02_13
+  - Matthew and Saki Wedding Final02_74
+  - Matthew and Saki Wedding Final02_10
+  - Matthew and Saki Wedding Final02_75
+  - Matthew and Saki Wedding Final02_29
+  - Matthew and Saki Wedding Final02_11
+  - Matthew and Saki Wedding Final02_76
+  - Matthew and Saki Wedding Final02_28
+  - Matthew and Saki Wedding Final02_16
+  - Matthew and Saki Wedding Final02_77
+  - Matthew and Saki Wedding Final02_17
+  - Matthew and Saki Wedding Final02_14
+  - Matthew and Saki Wedding Final02_15
+  - Matthew and Saki Wedding Final02_41
+  - Matthew and Saki Wedding Final02_40
+  - Matthew and Saki Wedding Final02_43
+  - Matthew and Saki Wedding Final02_42
+  - Matthew and Saki Wedding Final02_45
+  - Matthew and Saki Wedding Final02_44
+  - Matthew and Saki Wedding Final02_47
+  - Matthew and Saki Wedding Final02_46
+  - Matthew and Saki Wedding Final02_49
+  - Matthew and Saki Wedding Final02_48
+  - Matthew and Saki Wedding Final02_69
+  - Matthew and Saki Wedding Final02_68
+  - Matthew and Saki Wedding Final02_63
+  - Matthew and Saki Wedding Final02_62
+  - Matthew and Saki Wedding Final02_58
+  - Matthew and Saki Wedding Final02_61
+  - Matthew and Saki Wedding Final02_59
+  - Matthew and Saki Wedding Final02_60
+  - Matthew and Saki Wedding Final02_56
+  - Matthew and Saki Wedding Final02_67
+  - Matthew and Saki Wedding Final02_57
+  - Matthew and Saki Wedding Final02_66
+  - Matthew and Saki Wedding Final02_54
+  - Matthew and Saki Wedding Final02_65
+  - Matthew and Saki Wedding Final02_55
+  - Matthew and Saki Wedding Final02_64
+  - Matthew and Saki Wedding Final02_52
+  - Matthew and Saki Wedding Final02_53
+  - Matthew and Saki Wedding Final02_50
+  - Matthew and Saki Wedding Final02_51
+  - Matthew and Saki Wedding Final02_9
+  - Matthew and Saki Wedding Final02_8
+  - Matthew and Saki Wedding Final02_7
+  - Matthew and Saki Wedding Final02_6
+  - Matthew and Saki Wedding Final02_5
+  - Matthew and Saki Wedding Final02_4
+  - Matthew and Saki Wedding Final02_3
+  - Matthew and Saki Wedding Final02_2
   - Outside Objects_276
   - Outside Objects_277
   - Outside Objects_274
