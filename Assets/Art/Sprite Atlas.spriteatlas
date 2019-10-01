@@ -42,7 +42,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 6bf6eb7ffdfb06a4a84864436419b3aa, type: 3}
-    totalSpriteSurfaceArea: 8091846
+    totalSpriteSurfaceArea: 8127407
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -4140,6 +4140,10 @@ SpriteAtlas:
   - {fileID: -8041784067552993899, guid: 125ac6fb13cf7b74faf4abe8446587dc, type: 3}
   - {fileID: 1532286108747742640, guid: 125ac6fb13cf7b74faf4abe8446587dc, type: 3}
   - {fileID: 147799070741053269, guid: 125ac6fb13cf7b74faf4abe8446587dc, type: 3}
+  - {fileID: -1990360631782750335, guid: 6eee752cbe76b4c41a343fe3f56f7089, type: 3}
+  - {fileID: -4885297869042274732, guid: 6eee752cbe76b4c41a343fe3f56f7089, type: 3}
+  - {fileID: 5020281471436416588, guid: 6eee752cbe76b4c41a343fe3f56f7089, type: 3}
+  - {fileID: -6090249482872532103, guid: 6eee752cbe76b4c41a343fe3f56f7089, type: 3}
   - {fileID: 21300000, guid: 92a0672c69789ce4483fc4dd8fe68f85, type: 3}
   - {fileID: 21300000, guid: f7d4268c837425b43ac2ecd2db66cf0e, type: 3}
   - {fileID: 21300000, guid: 72f7819c04654b24a8b9d17a6837fef2, type: 3}
@@ -8808,6 +8812,10 @@ SpriteAtlas:
   - modified gfx melee sprites_1
   - modified gfx melee sprites_2
   - modified gfx melee sprites_3
+  - AirportFinal_1
+  - AirportFinal_0
+  - AirportFinal_3
+  - AirportFinal_2
   - England Building Big
   - UpIdle
   - tilemap
